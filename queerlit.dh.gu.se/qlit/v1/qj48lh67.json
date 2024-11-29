@@ -1,0 +1,384 @@
+{
+  "id": "https://queerlit.dh.gu.se/qlit/v1/qj48lh67",
+  "type": "Concept",
+  "prefLabel": {
+    "sv": "Historiska termer (hbtqi)"
+  },
+  "altLabel": {
+    "sv": [
+      "Föråldrade begrepp (hbtqi)"
+    ]
+  },
+  "scopeNote": {
+    "sv": [
+      "Används för skildringar, historiska eller historiserande, där föråldrade begrepp brukas för att beskriva samkönade sexuella praktiker, känslor och/eller identiteter eller överskridanden av binära könsnormer genom kropp, klädsel och/eller identitet."
+    ]
+  },
+  "narrower": [
+    {
+      "id": "https://queerlit.dh.gu.se/qlit/v1/ax80mf78",
+      "prefLabel": {
+        "sv": "Främmande seder (hbtqi)"
+      }
+    },
+    {
+      "id": "https://queerlit.dh.gu.se/qlit/v1/cq92tw18",
+      "prefLabel": {
+        "sv": "Kvinnohatare (hbtqi)"
+      }
+    },
+    {
+      "id": "https://queerlit.dh.gu.se/qlit/v1/iy88so72",
+      "prefLabel": {
+        "sv": "Ergi"
+      }
+    },
+    {
+      "id": "https://queerlit.dh.gu.se/qlit/v1/lr96ax17",
+      "prefLabel": {
+        "sv": "Manshatare (hbtqi)"
+      }
+    },
+    {
+      "id": "https://queerlit.dh.gu.se/qlit/v1/qb27dx51",
+      "prefLabel": {
+        "sv": "Homofiler"
+      }
+    },
+    {
+      "id": "https://queerlit.dh.gu.se/qlit/v1/ik01oq26",
+      "prefLabel": {
+        "sv": "Transvestiter"
+      }
+    },
+    {
+      "id": "https://queerlit.dh.gu.se/qlit/v1/gb58ld43",
+      "prefLabel": {
+        "sv": "Stockholmare (hbtqi)"
+      }
+    },
+    {
+      "id": "https://queerlit.dh.gu.se/qlit/v1/ih79ot08",
+      "prefLabel": {
+        "sv": "Perverterade"
+      }
+    },
+    {
+      "id": "https://queerlit.dh.gu.se/qlit/v1/tf12ob81",
+      "prefLabel": {
+        "sv": "Dandyer"
+      }
+    },
+    {
+      "id": "https://queerlit.dh.gu.se/qlit/v1/mo71rb07",
+      "prefLabel": {
+        "sv": "Sodomi"
+      }
+    },
+    {
+      "id": "https://queerlit.dh.gu.se/qlit/v1/ox94in52",
+      "prefLabel": {
+        "sv": "Sapfister"
+      }
+    },
+    {
+      "id": "https://queerlit.dh.gu.se/qlit/v1/pi08hg78",
+      "prefLabel": {
+        "sv": "Bugrar"
+      }
+    },
+    {
+      "id": "https://queerlit.dh.gu.se/qlit/v1/ky03lz27",
+      "prefLabel": {
+        "sv": "Sodomiter"
+      }
+    },
+    {
+      "id": "https://queerlit.dh.gu.se/qlit/v1/qf09cx68",
+      "prefLabel": {
+        "sv": "Lotusar (hbtqi)"
+      }
+    },
+    {
+      "id": "https://queerlit.dh.gu.se/qlit/v1/sb41qh19",
+      "prefLabel": {
+        "sv": "Vampyrer (hbtqi)"
+      }
+    },
+    {
+      "id": "https://queerlit.dh.gu.se/qlit/v1/xq00uv57",
+      "prefLabel": {
+        "sv": "Tredje könet"
+      }
+    },
+    {
+      "id": "https://queerlit.dh.gu.se/qlit/v1/ti58lf73",
+      "prefLabel": {
+        "sv": "Urningar"
+      }
+    },
+    {
+      "id": "https://queerlit.dh.gu.se/qlit/v1/bq69wo36",
+      "prefLabel": {
+        "sv": "Uranism"
+      }
+    },
+    {
+      "id": "https://queerlit.dh.gu.se/qlit/v1/xs83yq66",
+      "prefLabel": {
+        "sv": "Hermafroditer"
+      }
+    },
+    {
+      "id": "https://queerlit.dh.gu.se/qlit/v1/cm51lf45",
+      "prefLabel": {
+        "sv": "Inverterade"
+      }
+    },
+    {
+      "id": "https://queerlit.dh.gu.se/qlit/v1/nc67ku99",
+      "prefLabel": {
+        "sv": "Sexuell inversion"
+      }
+    },
+    {
+      "id": "https://queerlit.dh.gu.se/qlit/v1/cu72fw23",
+      "prefLabel": {
+        "sv": "Gossekärlek"
+      }
+    },
+    {
+      "id": "https://queerlit.dh.gu.se/qlit/v1/oq76dn75",
+      "prefLabel": {
+        "sv": "Pederasti"
+      }
+    },
+    {
+      "id": "https://queerlit.dh.gu.se/qlit/v1/nu38hi25",
+      "prefLabel": {
+        "sv": "Tribader"
+      }
+    },
+    {
+      "id": "https://queerlit.dh.gu.se/qlit/v1/tq80uf58",
+      "prefLabel": {
+        "sv": "Frottage"
+      }
+    },
+    {
+      "id": "https://queerlit.dh.gu.se/qlit/v1/om71eq87",
+      "prefLabel": {
+        "sv": "Såna (hbtqi)"
+      }
+    },
+    {
+      "id": "https://queerlit.dh.gu.se/qlit/v1/wq11aj19",
+      "prefLabel": {
+        "sv": "Fjollor"
+      }
+    },
+    {
+      "id": "https://queerlit.dh.gu.se/qlit/v1/vu78ao12",
+      "prefLabel": {
+        "sv": "Vänner (älskare)"
+      }
+    },
+    {
+      "id": "https://queerlit.dh.gu.se/qlit/v1/ks15vr11",
+      "prefLabel": {
+        "sv": "Pederaster"
+      }
+    },
+    {
+      "id": "https://queerlit.dh.gu.se/qlit/v1/sn21af03",
+      "prefLabel": {
+        "sv": "Kvinnomän"
+      }
+    },
+    {
+      "id": "https://queerlit.dh.gu.se/qlit/v1/xs75bn70",
+      "prefLabel": {
+        "sv": "Mankvinnor"
+      }
+    },
+    {
+      "id": "https://queerlit.dh.gu.se/qlit/v1/sh97pd06",
+      "prefLabel": {
+        "sv": "Eonism"
+      }
+    }
+  ],
+  "related": [
+    {
+      "id": "https://queerlit.dh.gu.se/qlit/v1/pb81ks09",
+      "prefLabel": {
+        "sv": "Bostonäktenskap"
+      }
+    }
+  ],
+  "closeMatch": [
+    {
+      "id": "https://homosaurus.org/v3/homoit0000878"
+    }
+  ],
+  "inScheme": [
+    {
+      "id": "https://queerlit.dh.gu.se/qlit/v1"
+    }
+  ],
+  "inSchemeAll": [
+    {
+      "id": "https://queerlit.dh.gu.se/qlit/v1"
+    }
+  ],
+  "topConceptOf": [
+    {
+      "id": "https://queerlit.dh.gu.se/qlit/v1"
+    }
+  ],
+  "@context": {
+    "@version": 1.1,
+    "id": "@id",
+    "type": "@type",
+    "@vocab": "http://www.w3.org/2004/02/skos/core#",
+    "xsd": "http://www.w3.org/2001/XMLSchema#",
+    "dct": "http://purl.org/dc/terms/",
+    "dc": "http://purl.org/dc/elements/1.1/",
+    "schema": "https://schema.org/",
+    "vann": "http://purl.org/vocab/vann/",
+    "ldp": "http://www.w3.org/ns/ldp#",
+    "owl": "http://www.w3.org/2002/07/owl#",
+    "title": {
+      "@id": "dct:title",
+      "@container": "@language"
+    },
+    "dc:title": {
+      "@id": "dc:title",
+      "@container": "@language"
+    },
+    "dc:description": {
+      "@id": "dc:description",
+      "@container": "@language"
+    },
+    "description": {
+      "@id": "dct:description",
+      "@container": "@language"
+    },
+    "issued": {
+      "@id": "dct:issued",
+      "@type": "xsd:date"
+    },
+    "created": {
+      "@id": "dct:created",
+      "@type": "xsd:date"
+    },
+    "modified": {
+      "@id": "dct:modified",
+      "@type": "xsd:date"
+    },
+    "creator": "dct:creator",
+    "publisher": "dct:publisher",
+    "preferredNamespacePrefix": "vann:preferredNamespacePrefix",
+    "preferredNamespaceUri": "vann:preferredNamespaceUri",
+    "isBasedOn": "schema:isBasedOn",
+    "source": "dct:source",
+    "prefLabel": {
+      "@container": "@language"
+    },
+    "altLabel": {
+      "@container": [
+        "@language",
+        "@set"
+      ]
+    },
+    "hiddenLabel": {
+      "@container": [
+        "@language",
+        "@set"
+      ]
+    },
+    "definition": {
+      "@container": "@language"
+    },
+    "note": {
+      "@container": [
+        "@language",
+        "@set"
+      ]
+    },
+    "changeNote": {
+      "@container": [
+        "@language",
+        "@set"
+      ]
+    },
+    "editorialNote": {
+      "@container": [
+        "@language",
+        "@set"
+      ]
+    },
+    "historyNote": {
+      "@container": [
+        "@language",
+        "@set"
+      ]
+    },
+    "scopeNote": {
+      "@container": [
+        "@language",
+        "@set"
+      ]
+    },
+    "notation": {
+      "@container": "@set"
+    },
+    "example": {
+      "@container": "@language"
+    },
+    "narrower": {
+      "@container": "@set"
+    },
+    "related": {
+      "@container": "@set"
+    },
+    "relatedMatch": {
+      "@container": "@set"
+    },
+    "narrowerTransitive": {
+      "@container": "@set"
+    },
+    "broaderTransitive": {
+      "@container": "@set"
+    },
+    "broadMatch": {
+      "@container": "@set"
+    },
+    "narrowMatch": {
+      "@container": "@set"
+    },
+    "closeMatch": {
+      "@container": "@set"
+    },
+    "exactMatch": {
+      "@container": "@set"
+    },
+    "hasTopConcept": {
+      "@container": "@set"
+    },
+    "inScheme": {
+      "@container": "@set"
+    },
+    "topConceptOf": {
+      "@container": "@set"
+    },
+    "deprecated": {
+      "@id": "owl:deprecated",
+      "@type": "xsd:boolean"
+    },
+    "isReplacedBy": {
+      "@id": "dct:isReplacedBy",
+      "@container": "@set"
+    }
+  }
+}

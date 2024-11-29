@@ -1,0 +1,433 @@
+{
+  "id": "https://queerlit.dh.gu.se/qlit/v1/iy93lr17",
+  "type": "Concept",
+  "prefLabel": {
+    "sv": "Sexuell identitet"
+  },
+  "scopeNote": {
+    "sv": [
+      "Används för skildringar av personers uppfattning av sig själva i relation till vem eller vad de attraheras av, både romantiskt och sexuellt."
+    ]
+  },
+  "narrower": [
+    {
+      "id": "https://queerlit.dh.gu.se/qlit/v1/xe06fq38",
+      "prefLabel": {
+        "sv": "Björnar (identitet)"
+      }
+    },
+    {
+      "id": "https://queerlit.dh.gu.se/qlit/v1/tf12ob81",
+      "prefLabel": {
+        "sv": "Dandyer"
+      }
+    },
+    {
+      "id": "https://queerlit.dh.gu.se/qlit/v1/si96fc99",
+      "prefLabel": {
+        "sv": "Faeries"
+      }
+    },
+    {
+      "id": "https://queerlit.dh.gu.se/qlit/v1/gb80wq04",
+      "prefLabel": {
+        "sv": "Chubs (identitet)"
+      }
+    },
+    {
+      "id": "https://queerlit.dh.gu.se/qlit/v1/tx04hr81",
+      "prefLabel": {
+        "sv": "Butchar"
+      }
+    },
+    {
+      "id": "https://queerlit.dh.gu.se/qlit/v1/ef49js51",
+      "prefLabel": {
+        "sv": "Sexuella roller"
+      }
+    },
+    {
+      "id": "https://queerlit.dh.gu.se/qlit/v1/nl71fq44",
+      "prefLabel": {
+        "sv": "Megasexualitet"
+      }
+    },
+    {
+      "id": "https://queerlit.dh.gu.se/qlit/v1/pi96ct54",
+      "prefLabel": {
+        "sv": "Demisexuella"
+      }
+    },
+    {
+      "id": "https://queerlit.dh.gu.se/qlit/v1/ks15vr11",
+      "prefLabel": {
+        "sv": "Pederaster"
+      }
+    },
+    {
+      "id": "https://queerlit.dh.gu.se/qlit/v1/ku32od34",
+      "prefLabel": {
+        "sv": "Uttrar (identitet)"
+      }
+    },
+    {
+      "id": "https://queerlit.dh.gu.se/qlit/v1/gn70nk07",
+      "prefLabel": {
+        "sv": "Switchar (BDSM)"
+      }
+    },
+    {
+      "id": "https://queerlit.dh.gu.se/qlit/v1/gb03ie03",
+      "prefLabel": {
+        "sv": "Dominanta (hbtqi)"
+      }
+    },
+    {
+      "id": "https://queerlit.dh.gu.se/qlit/v1/wm33rr79",
+      "prefLabel": {
+        "sv": "Undergivna (hbtqi)"
+      }
+    },
+    {
+      "id": "https://queerlit.dh.gu.se/qlit/v1/qk34rm23",
+      "prefLabel": {
+        "sv": "Femmes"
+      }
+    },
+    {
+      "id": "https://queerlit.dh.gu.se/qlit/v1/xo37sy14",
+      "prefLabel": {
+        "sv": "Megasexuella"
+      }
+    },
+    {
+      "id": "https://queerlit.dh.gu.se/qlit/v1/nh99bq54",
+      "prefLabel": {
+        "sv": "Sexslavar (hbtqi)"
+      }
+    },
+    {
+      "id": "https://queerlit.dh.gu.se/qlit/v1/ek27kt77",
+      "prefLabel": {
+        "sv": "Dominatrixer (hbtqi)"
+      }
+    },
+    {
+      "id": "https://queerlit.dh.gu.se/qlit/v1/iq08ee58",
+      "prefLabel": {
+        "sv": "Masters (hbtqi)"
+      }
+    }
+  ],
+  "related": [
+    {
+      "id": "https://queerlit.dh.gu.se/qlit/v1/pj39xm88",
+      "prefLabel": {
+        "sv": "Rollbeteende"
+      }
+    },
+    {
+      "id": "https://queerlit.dh.gu.se/qlit/v1/zv66nv87",
+      "prefLabel": {
+        "sv": "Sexuell läggning"
+      }
+    },
+    {
+      "id": "https://queerlit.dh.gu.se/qlit/v1/cb66jw88",
+      "prefLabel": {
+        "sv": "Sexuell preferens"
+      }
+    },
+    {
+      "id": "https://queerlit.dh.gu.se/qlit/v1/zu15ju63",
+      "prefLabel": {
+        "sv": "Flersamma relationer"
+      }
+    },
+    {
+      "id": "https://queerlit.dh.gu.se/qlit/v1/oj77yj15",
+      "prefLabel": {
+        "sv": "BDSM"
+      }
+    },
+    {
+      "id": "https://queerlit.dh.gu.se/qlit/v1/hl99rr34",
+      "prefLabel": {
+        "sv": "Dekadens"
+      }
+    },
+    {
+      "id": "https://queerlit.dh.gu.se/qlit/v1/aw95bz40",
+      "prefLabel": {
+        "sv": "Polyamori"
+      }
+    },
+    {
+      "id": "https://queerlit.dh.gu.se/qlit/v1/op23ar73",
+      "prefLabel": {
+        "sv": "Könsidentitet"
+      }
+    },
+    {
+      "id": "https://queerlit.dh.gu.se/qlit/v1/fr82xo46",
+      "prefLabel": {
+        "sv": "Lesbisk kultur"
+      }
+    },
+    {
+      "id": "https://queerlit.dh.gu.se/qlit/v1/oc13ma05",
+      "prefLabel": {
+        "sv": "Rollspel (sexualitet)"
+      }
+    },
+    {
+      "id": "https://queerlit.dh.gu.se/qlit/v1/jm54md83",
+      "prefLabel": {
+        "sv": "Fetischism (sexualitet)"
+      }
+    },
+    {
+      "id": "https://queerlit.dh.gu.se/qlit/v1/db65xf46",
+      "prefLabel": {
+        "sv": "Interkulturella relationer"
+      }
+    },
+    {
+      "id": "https://queerlit.dh.gu.se/qlit/v1/bz86ef62",
+      "prefLabel": {
+        "sv": "Bögkultur"
+      }
+    },
+    {
+      "id": "https://queerlit.dh.gu.se/qlit/v1/un13ce14",
+      "prefLabel": {
+        "sv": "Transkultur"
+      }
+    },
+    {
+      "id": "https://queerlit.dh.gu.se/qlit/v1/hc77dd42",
+      "prefLabel": {
+        "sv": "Ballroomkultur"
+      }
+    },
+    {
+      "id": "https://queerlit.dh.gu.se/qlit/v1/ef49js51",
+      "prefLabel": {
+        "sv": "Sexuella roller"
+      }
+    },
+    {
+      "id": "https://queerlit.dh.gu.se/qlit/v1/bv98lh92",
+      "prefLabel": {
+        "sv": "Monogami"
+      }
+    },
+    {
+      "id": "https://queerlit.dh.gu.se/qlit/v1/bu52ty56",
+      "prefLabel": {
+        "sv": "Partnerpreferens"
+      }
+    },
+    {
+      "id": "https://queerlit.dh.gu.se/qlit/v1/jh97xq13",
+      "prefLabel": {
+        "sv": "Essentialism"
+      }
+    },
+    {
+      "id": "https://queerlit.dh.gu.se/qlit/v1/mi66sk40",
+      "prefLabel": {
+        "sv": "Intergenerationella relationer"
+      }
+    },
+    {
+      "id": "https://queerlit.dh.gu.se/qlit/v1/jf44kn92",
+      "prefLabel": {
+        "sv": "Draggemenskaper"
+      }
+    },
+    {
+      "id": "https://queerlit.dh.gu.se/qlit/v1/lh71ui09",
+      "prefLabel": {
+        "sv": "Butch-femme relationer"
+      }
+    },
+    {
+      "id": "https://queerlit.dh.gu.se/qlit/v1/qk34rm23",
+      "prefLabel": {
+        "sv": "Femmes"
+      }
+    },
+    {
+      "id": "https://queerlit.dh.gu.se/qlit/v1/qb31sd30",
+      "prefLabel": {
+        "sv": "Masochism"
+      }
+    }
+  ],
+  "exactMatch": [
+    {
+      "id": "https://homosaurus.org/v3/homoit0001295"
+    }
+  ],
+  "inScheme": [
+    {
+      "id": "https://queerlit.dh.gu.se/qlit/v1"
+    }
+  ],
+  "inSchemeAll": [
+    {
+      "id": "https://queerlit.dh.gu.se/qlit/v1"
+    }
+  ],
+  "topConceptOf": [
+    {
+      "id": "https://queerlit.dh.gu.se/qlit/v1"
+    }
+  ],
+  "@context": {
+    "@version": 1.1,
+    "id": "@id",
+    "type": "@type",
+    "@vocab": "http://www.w3.org/2004/02/skos/core#",
+    "xsd": "http://www.w3.org/2001/XMLSchema#",
+    "dct": "http://purl.org/dc/terms/",
+    "dc": "http://purl.org/dc/elements/1.1/",
+    "schema": "https://schema.org/",
+    "vann": "http://purl.org/vocab/vann/",
+    "ldp": "http://www.w3.org/ns/ldp#",
+    "owl": "http://www.w3.org/2002/07/owl#",
+    "title": {
+      "@id": "dct:title",
+      "@container": "@language"
+    },
+    "dc:title": {
+      "@id": "dc:title",
+      "@container": "@language"
+    },
+    "dc:description": {
+      "@id": "dc:description",
+      "@container": "@language"
+    },
+    "description": {
+      "@id": "dct:description",
+      "@container": "@language"
+    },
+    "issued": {
+      "@id": "dct:issued",
+      "@type": "xsd:date"
+    },
+    "created": {
+      "@id": "dct:created",
+      "@type": "xsd:date"
+    },
+    "modified": {
+      "@id": "dct:modified",
+      "@type": "xsd:date"
+    },
+    "creator": "dct:creator",
+    "publisher": "dct:publisher",
+    "preferredNamespacePrefix": "vann:preferredNamespacePrefix",
+    "preferredNamespaceUri": "vann:preferredNamespaceUri",
+    "isBasedOn": "schema:isBasedOn",
+    "source": "dct:source",
+    "prefLabel": {
+      "@container": "@language"
+    },
+    "altLabel": {
+      "@container": [
+        "@language",
+        "@set"
+      ]
+    },
+    "hiddenLabel": {
+      "@container": [
+        "@language",
+        "@set"
+      ]
+    },
+    "definition": {
+      "@container": "@language"
+    },
+    "note": {
+      "@container": [
+        "@language",
+        "@set"
+      ]
+    },
+    "changeNote": {
+      "@container": [
+        "@language",
+        "@set"
+      ]
+    },
+    "editorialNote": {
+      "@container": [
+        "@language",
+        "@set"
+      ]
+    },
+    "historyNote": {
+      "@container": [
+        "@language",
+        "@set"
+      ]
+    },
+    "scopeNote": {
+      "@container": [
+        "@language",
+        "@set"
+      ]
+    },
+    "notation": {
+      "@container": "@set"
+    },
+    "example": {
+      "@container": "@language"
+    },
+    "narrower": {
+      "@container": "@set"
+    },
+    "related": {
+      "@container": "@set"
+    },
+    "relatedMatch": {
+      "@container": "@set"
+    },
+    "narrowerTransitive": {
+      "@container": "@set"
+    },
+    "broaderTransitive": {
+      "@container": "@set"
+    },
+    "broadMatch": {
+      "@container": "@set"
+    },
+    "narrowMatch": {
+      "@container": "@set"
+    },
+    "closeMatch": {
+      "@container": "@set"
+    },
+    "exactMatch": {
+      "@container": "@set"
+    },
+    "hasTopConcept": {
+      "@container": "@set"
+    },
+    "inScheme": {
+      "@container": "@set"
+    },
+    "topConceptOf": {
+      "@container": "@set"
+    },
+    "deprecated": {
+      "@id": "owl:deprecated",
+      "@type": "xsd:boolean"
+    },
+    "isReplacedBy": {
+      "@id": "dct:isReplacedBy",
+      "@container": "@set"
+    }
+  }
+}

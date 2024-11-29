@@ -1,0 +1,248 @@
+{
+  "id": "https://queerlit.dh.gu.se/qlit/v1/ho87ol42",
+  "type": "Concept",
+  "prefLabel": {
+    "sv": "Familjerätt (hbtqi)"
+  },
+  "scopeNote": {
+    "sv": [
+      "Används för skildringar där den del av juridiken som avhandlar familjeförhållanden - inklusive samboskap, äktenskap, adoption, relationer mellan föräldrar och barn, skilsmässa och vårdnad om barn - har en framträdande betydelse för verket."
+    ]
+  },
+  "narrower": [
+    {
+      "id": "https://queerlit.dh.gu.se/qlit/v1/az92so55",
+      "prefLabel": {
+        "sv": "Äktenskapslagstiftning"
+      }
+    },
+    {
+      "id": "https://queerlit.dh.gu.se/qlit/v1/aa40zb14",
+      "prefLabel": {
+        "sv": "Juridiskt namn"
+      }
+    },
+    {
+      "id": "https://queerlit.dh.gu.se/qlit/v1/ff45ka28",
+      "prefLabel": {
+        "sv": "Namnändring"
+      }
+    }
+  ],
+  "broader": {
+    "id": "https://queerlit.dh.gu.se/qlit/v1/pi26jy10",
+    "prefLabel": {
+      "sv": "Juridik"
+    }
+  },
+  "related": [
+    {
+      "id": "https://queerlit.dh.gu.se/qlit/v1/pt39jk21",
+      "prefLabel": {
+        "sv": "Donatorer (medicin)"
+      }
+    },
+    {
+      "id": "https://queerlit.dh.gu.se/qlit/v1/ow71wa03",
+      "prefLabel": {
+        "sv": "Närståendeadoption"
+      }
+    },
+    {
+      "id": "https://queerlit.dh.gu.se/qlit/v1/wl28xr24",
+      "prefLabel": {
+        "sv": "Adoption (hbtqi)"
+      }
+    },
+    {
+      "id": "https://queerlit.dh.gu.se/qlit/v1/vz77bu91",
+      "prefLabel": {
+        "sv": "Vuxenadoption"
+      }
+    },
+    {
+      "id": "https://queerlit.dh.gu.se/qlit/v1/ey75ly87",
+      "prefLabel": {
+        "sv": "Föräldrarätt"
+      }
+    },
+    {
+      "id": "https://queerlit.dh.gu.se/qlit/v1/os76md08",
+      "prefLabel": {
+        "sv": "Registrerade partnerskap"
+      }
+    },
+    {
+      "id": "https://queerlit.dh.gu.se/qlit/v1/nk19mk45",
+      "prefLabel": {
+        "sv": "Officiell dokumentation"
+      }
+    },
+    {
+      "id": "https://queerlit.dh.gu.se/qlit/v1/ar69hs67",
+      "prefLabel": {
+        "sv": "Samboavtal"
+      }
+    }
+  ],
+  "closeMatch": [
+    {
+      "id": "https://homosaurus.org/v3/homoit0000918"
+    }
+  ],
+  "inScheme": [
+    {
+      "id": "https://queerlit.dh.gu.se/qlit/v1"
+    }
+  ],
+  "inSchemeAll": [
+    {
+      "id": "https://queerlit.dh.gu.se/qlit/v1"
+    }
+  ],
+  "@context": {
+    "@version": 1.1,
+    "id": "@id",
+    "type": "@type",
+    "@vocab": "http://www.w3.org/2004/02/skos/core#",
+    "xsd": "http://www.w3.org/2001/XMLSchema#",
+    "dct": "http://purl.org/dc/terms/",
+    "dc": "http://purl.org/dc/elements/1.1/",
+    "schema": "https://schema.org/",
+    "vann": "http://purl.org/vocab/vann/",
+    "ldp": "http://www.w3.org/ns/ldp#",
+    "owl": "http://www.w3.org/2002/07/owl#",
+    "title": {
+      "@id": "dct:title",
+      "@container": "@language"
+    },
+    "dc:title": {
+      "@id": "dc:title",
+      "@container": "@language"
+    },
+    "dc:description": {
+      "@id": "dc:description",
+      "@container": "@language"
+    },
+    "description": {
+      "@id": "dct:description",
+      "@container": "@language"
+    },
+    "issued": {
+      "@id": "dct:issued",
+      "@type": "xsd:date"
+    },
+    "created": {
+      "@id": "dct:created",
+      "@type": "xsd:date"
+    },
+    "modified": {
+      "@id": "dct:modified",
+      "@type": "xsd:date"
+    },
+    "creator": "dct:creator",
+    "publisher": "dct:publisher",
+    "preferredNamespacePrefix": "vann:preferredNamespacePrefix",
+    "preferredNamespaceUri": "vann:preferredNamespaceUri",
+    "isBasedOn": "schema:isBasedOn",
+    "source": "dct:source",
+    "prefLabel": {
+      "@container": "@language"
+    },
+    "altLabel": {
+      "@container": [
+        "@language",
+        "@set"
+      ]
+    },
+    "hiddenLabel": {
+      "@container": [
+        "@language",
+        "@set"
+      ]
+    },
+    "definition": {
+      "@container": "@language"
+    },
+    "note": {
+      "@container": [
+        "@language",
+        "@set"
+      ]
+    },
+    "changeNote": {
+      "@container": [
+        "@language",
+        "@set"
+      ]
+    },
+    "editorialNote": {
+      "@container": [
+        "@language",
+        "@set"
+      ]
+    },
+    "historyNote": {
+      "@container": [
+        "@language",
+        "@set"
+      ]
+    },
+    "scopeNote": {
+      "@container": [
+        "@language",
+        "@set"
+      ]
+    },
+    "notation": {
+      "@container": "@set"
+    },
+    "example": {
+      "@container": "@language"
+    },
+    "narrower": {
+      "@container": "@set"
+    },
+    "related": {
+      "@container": "@set"
+    },
+    "relatedMatch": {
+      "@container": "@set"
+    },
+    "narrowerTransitive": {
+      "@container": "@set"
+    },
+    "broaderTransitive": {
+      "@container": "@set"
+    },
+    "broadMatch": {
+      "@container": "@set"
+    },
+    "narrowMatch": {
+      "@container": "@set"
+    },
+    "closeMatch": {
+      "@container": "@set"
+    },
+    "exactMatch": {
+      "@container": "@set"
+    },
+    "hasTopConcept": {
+      "@container": "@set"
+    },
+    "inScheme": {
+      "@container": "@set"
+    },
+    "topConceptOf": {
+      "@container": "@set"
+    },
+    "deprecated": {
+      "@id": "owl:deprecated",
+      "@type": "xsd:boolean"
+    },
+    "isReplacedBy": {
+      "@id": "dct:isReplacedBy",
+      "@container": "@set"
+    }
+  }
+}

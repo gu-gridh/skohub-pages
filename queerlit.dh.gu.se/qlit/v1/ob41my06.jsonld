@@ -1,0 +1,307 @@
+{
+  "id": "https://queerlit.dh.gu.se/qlit/v1/ob41my06",
+  "type": "Concept",
+  "prefLabel": {
+    "sv": "Intersexpersoner"
+  },
+  "altLabel": {
+    "sv": [
+      "Intersexuella"
+    ]
+  },
+  "scopeNote": {
+    "sv": [
+      "Används för skildringar av personer med en medfödd variation i sin könskaraktäristika (gener, könshormon och/eller könsorgan) som inte stämmer överens med hur en typiskt kvinnlig eller typiskt manlig kropp förväntas vara."
+    ]
+  },
+  "narrower": [
+    {
+      "id": "https://queerlit.dh.gu.se/qlit/v1/fn83ny13",
+      "prefLabel": {
+        "sv": "Prostituerade intersexpersoner"
+      }
+    },
+    {
+      "id": "https://queerlit.dh.gu.se/qlit/v1/or84uc19",
+      "prefLabel": {
+        "sv": "Äldre intersexpersoner"
+      }
+    },
+    {
+      "id": "https://queerlit.dh.gu.se/qlit/v1/yx47kl56",
+      "prefLabel": {
+        "sv": "Intersexpar"
+      }
+    },
+    {
+      "id": "https://queerlit.dh.gu.se/qlit/v1/zl81mx49",
+      "prefLabel": {
+        "sv": "Unga intersexpersoner"
+      }
+    },
+    {
+      "id": "https://queerlit.dh.gu.se/qlit/v1/jm19os62",
+      "prefLabel": {
+        "sv": "Intersexföräldrar"
+      }
+    },
+    {
+      "id": "https://queerlit.dh.gu.se/qlit/v1/rw98mz62",
+      "prefLabel": {
+        "sv": "Intersexbarn"
+      }
+    },
+    {
+      "id": "https://queerlit.dh.gu.se/qlit/v1/sm18jx44",
+      "prefLabel": {
+        "sv": "Nyutkomna intersexpersoner"
+      }
+    }
+  ],
+  "broader": {
+    "id": "https://queerlit.dh.gu.se/qlit/v1/ot53zk29",
+    "prefLabel": {
+      "sv": "Hbtqi-personer"
+    }
+  },
+  "related": [
+    {
+      "id": "https://queerlit.dh.gu.se/qlit/v1/ae55cm31",
+      "prefLabel": {
+        "sv": "Könsstympning av intersexpersoner"
+      }
+    },
+    {
+      "id": "https://queerlit.dh.gu.se/qlit/v1/um33qf35",
+      "prefLabel": {
+        "sv": "Föräldrar till intersexpersoner"
+      }
+    },
+    {
+      "id": "https://queerlit.dh.gu.se/qlit/v1/pb90wc68",
+      "prefLabel": {
+        "sv": "Förföljelse av intersexpersoner"
+      }
+    },
+    {
+      "id": "https://queerlit.dh.gu.se/qlit/v1/qf48vc57",
+      "prefLabel": {
+        "sv": "Partners till intersexpersoner"
+      }
+    },
+    {
+      "id": "https://queerlit.dh.gu.se/qlit/v1/xs83yq66",
+      "prefLabel": {
+        "sv": "Hermafroditer"
+      }
+    },
+    {
+      "id": "https://queerlit.dh.gu.se/qlit/v1/vh80ls37",
+      "prefLabel": {
+        "sv": "Androgynos"
+      }
+    },
+    {
+      "id": "https://queerlit.dh.gu.se/qlit/v1/qy65je42",
+      "prefLabel": {
+        "sv": "Intersexfobi"
+      }
+    },
+    {
+      "id": "https://queerlit.dh.gu.se/qlit/v1/sy50mg13",
+      "prefLabel": {
+        "sv": "Intersextillstånd"
+      }
+    },
+    {
+      "id": "https://queerlit.dh.gu.se/qlit/v1/qn64mm90",
+      "prefLabel": {
+        "sv": "Passera (kön)"
+      }
+    },
+    {
+      "id": "https://queerlit.dh.gu.se/qlit/v1/ii22pz18",
+      "prefLabel": {
+        "sv": "Intersexgemenskaper"
+      }
+    },
+    {
+      "id": "https://queerlit.dh.gu.se/qlit/v1/sn21af03",
+      "prefLabel": {
+        "sv": "Kvinnomän"
+      }
+    },
+    {
+      "id": "https://queerlit.dh.gu.se/qlit/v1/xs75bn70",
+      "prefLabel": {
+        "sv": "Mankvinnor"
+      }
+    }
+  ],
+  "exactMatch": [
+    {
+      "id": "http://id.loc.gov/authorities/subjects/sh2007003860"
+    },
+    {
+      "id": "https://homosaurus.org/v3/homoit0000618"
+    },
+    {
+      "id": "https://id.kb.se/term/sao/Intersexpersoner"
+    }
+  ],
+  "inScheme": [
+    {
+      "id": "https://queerlit.dh.gu.se/qlit/v1"
+    }
+  ],
+  "inSchemeAll": [
+    {
+      "id": "https://queerlit.dh.gu.se/qlit/v1"
+    }
+  ],
+  "@context": {
+    "@version": 1.1,
+    "id": "@id",
+    "type": "@type",
+    "@vocab": "http://www.w3.org/2004/02/skos/core#",
+    "xsd": "http://www.w3.org/2001/XMLSchema#",
+    "dct": "http://purl.org/dc/terms/",
+    "dc": "http://purl.org/dc/elements/1.1/",
+    "schema": "https://schema.org/",
+    "vann": "http://purl.org/vocab/vann/",
+    "ldp": "http://www.w3.org/ns/ldp#",
+    "owl": "http://www.w3.org/2002/07/owl#",
+    "title": {
+      "@id": "dct:title",
+      "@container": "@language"
+    },
+    "dc:title": {
+      "@id": "dc:title",
+      "@container": "@language"
+    },
+    "dc:description": {
+      "@id": "dc:description",
+      "@container": "@language"
+    },
+    "description": {
+      "@id": "dct:description",
+      "@container": "@language"
+    },
+    "issued": {
+      "@id": "dct:issued",
+      "@type": "xsd:date"
+    },
+    "created": {
+      "@id": "dct:created",
+      "@type": "xsd:date"
+    },
+    "modified": {
+      "@id": "dct:modified",
+      "@type": "xsd:date"
+    },
+    "creator": "dct:creator",
+    "publisher": "dct:publisher",
+    "preferredNamespacePrefix": "vann:preferredNamespacePrefix",
+    "preferredNamespaceUri": "vann:preferredNamespaceUri",
+    "isBasedOn": "schema:isBasedOn",
+    "source": "dct:source",
+    "prefLabel": {
+      "@container": "@language"
+    },
+    "altLabel": {
+      "@container": [
+        "@language",
+        "@set"
+      ]
+    },
+    "hiddenLabel": {
+      "@container": [
+        "@language",
+        "@set"
+      ]
+    },
+    "definition": {
+      "@container": "@language"
+    },
+    "note": {
+      "@container": [
+        "@language",
+        "@set"
+      ]
+    },
+    "changeNote": {
+      "@container": [
+        "@language",
+        "@set"
+      ]
+    },
+    "editorialNote": {
+      "@container": [
+        "@language",
+        "@set"
+      ]
+    },
+    "historyNote": {
+      "@container": [
+        "@language",
+        "@set"
+      ]
+    },
+    "scopeNote": {
+      "@container": [
+        "@language",
+        "@set"
+      ]
+    },
+    "notation": {
+      "@container": "@set"
+    },
+    "example": {
+      "@container": "@language"
+    },
+    "narrower": {
+      "@container": "@set"
+    },
+    "related": {
+      "@container": "@set"
+    },
+    "relatedMatch": {
+      "@container": "@set"
+    },
+    "narrowerTransitive": {
+      "@container": "@set"
+    },
+    "broaderTransitive": {
+      "@container": "@set"
+    },
+    "broadMatch": {
+      "@container": "@set"
+    },
+    "narrowMatch": {
+      "@container": "@set"
+    },
+    "closeMatch": {
+      "@container": "@set"
+    },
+    "exactMatch": {
+      "@container": "@set"
+    },
+    "hasTopConcept": {
+      "@container": "@set"
+    },
+    "inScheme": {
+      "@container": "@set"
+    },
+    "topConceptOf": {
+      "@container": "@set"
+    },
+    "deprecated": {
+      "@id": "owl:deprecated",
+      "@type": "xsd:boolean"
+    },
+    "isReplacedBy": {
+      "@id": "dct:isReplacedBy",
+      "@container": "@set"
+    }
+  }
+}

@@ -1,0 +1,329 @@
+{
+  "id": "https://queerlit.dh.gu.se/qlit/v1/op23ar73",
+  "type": "Concept",
+  "prefLabel": {
+    "sv": "Könsidentitet"
+  },
+  "scopeNote": {
+    "sv": [
+      "Används för skildringar av en persons upplevelse av att vara ett, flera eller inget kön."
+    ]
+  },
+  "narrower": [
+    {
+      "id": "https://queerlit.dh.gu.se/qlit/v1/wj27lv47",
+      "prefLabel": {
+        "sv": "Transpersoner"
+      }
+    },
+    {
+      "id": "https://queerlit.dh.gu.se/qlit/v1/kx86go78",
+      "prefLabel": {
+        "sv": "Travesti"
+      }
+    },
+    {
+      "id": "https://queerlit.dh.gu.se/qlit/v1/zf23ch07",
+      "prefLabel": {
+        "sv": "Män"
+      }
+    },
+    {
+      "id": "https://queerlit.dh.gu.se/qlit/v1/xq00uv57",
+      "prefLabel": {
+        "sv": "Tredje könet"
+      }
+    },
+    {
+      "id": "https://queerlit.dh.gu.se/qlit/v1/ux60ib70",
+      "prefLabel": {
+        "sv": "Katoey"
+      }
+    },
+    {
+      "id": "https://queerlit.dh.gu.se/qlit/v1/zq57kl95",
+      "prefLabel": {
+        "sv": "Two-spirit"
+      }
+    },
+    {
+      "id": "https://queerlit.dh.gu.se/qlit/v1/la83kc00",
+      "prefLabel": {
+        "sv": "Kvinnor"
+      }
+    },
+    {
+      "id": "https://queerlit.dh.gu.se/qlit/v1/wj35lq02",
+      "prefLabel": {
+        "sv": "Cispersoner"
+      }
+    },
+    {
+      "id": "https://queerlit.dh.gu.se/qlit/v1/vh80ls37",
+      "prefLabel": {
+        "sv": "Androgynos"
+      }
+    },
+    {
+      "id": "https://queerlit.dh.gu.se/qlit/v1/rj97ul15",
+      "prefLabel": {
+        "sv": "Hijre"
+      }
+    },
+    {
+      "id": "https://queerlit.dh.gu.se/qlit/v1/ye64kb30",
+      "prefLabel": {
+        "sv": "Eunucker"
+      }
+    }
+  ],
+  "broader": {
+    "id": "https://queerlit.dh.gu.se/qlit/v1/ss55ax39",
+    "prefLabel": {
+      "sv": "Kön"
+    }
+  },
+  "related": [
+    {
+      "id": "https://queerlit.dh.gu.se/qlit/v1/ix39kn40",
+      "prefLabel": {
+        "sv": "Relationspreferens"
+      }
+    },
+    {
+      "id": "https://queerlit.dh.gu.se/qlit/v1/iy93lr17",
+      "prefLabel": {
+        "sv": "Sexuell identitet"
+      }
+    },
+    {
+      "id": "https://queerlit.dh.gu.se/qlit/v1/pj39xm88",
+      "prefLabel": {
+        "sv": "Rollbeteende"
+      }
+    },
+    {
+      "id": "https://queerlit.dh.gu.se/qlit/v1/aq42lk11",
+      "prefLabel": {
+        "sv": "Könsuttryck"
+      }
+    },
+    {
+      "id": "https://queerlit.dh.gu.se/qlit/v1/ua71em06",
+      "prefLabel": {
+        "sv": "Transitionering"
+      }
+    },
+    {
+      "id": "https://queerlit.dh.gu.se/qlit/v1/wj27lv47",
+      "prefLabel": {
+        "sv": "Transpersoner"
+      }
+    },
+    {
+      "id": "https://queerlit.dh.gu.se/qlit/v1/xw31re99",
+      "prefLabel": {
+        "sv": "Könsroller"
+      }
+    },
+    {
+      "id": "https://queerlit.dh.gu.se/qlit/v1/ur25wp26",
+      "prefLabel": {
+        "sv": "Demigenderpersoner"
+      }
+    },
+    {
+      "id": "https://queerlit.dh.gu.se/qlit/v1/wj35lq02",
+      "prefLabel": {
+        "sv": "Cispersoner"
+      }
+    },
+    {
+      "id": "https://queerlit.dh.gu.se/qlit/v1/vw95lh38",
+      "prefLabel": {
+        "sv": "Agenderpersoner"
+      }
+    },
+    {
+      "id": "https://queerlit.dh.gu.se/qlit/v1/or82kx62",
+      "prefLabel": {
+        "sv": "Könseufori"
+      }
+    },
+    {
+      "id": "https://queerlit.dh.gu.se/qlit/v1/dk34ho21",
+      "prefLabel": {
+        "sv": "Könsdysfori"
+      }
+    }
+  ],
+  "exactMatch": [
+    {
+      "id": "http://id.loc.gov/authorities/subjects/sh91003756"
+    },
+    {
+      "id": "https://homosaurus.org/v3/homoit0000571"
+    },
+    {
+      "id": "https://id.kb.se/term/barn/K%C3%B6nsidentitet"
+    },
+    {
+      "id": "https://id.kb.se/term/sao/K%C3%B6nsidentitet"
+    }
+  ],
+  "inScheme": [
+    {
+      "id": "https://queerlit.dh.gu.se/qlit/v1"
+    }
+  ],
+  "inSchemeAll": [
+    {
+      "id": "https://queerlit.dh.gu.se/qlit/v1"
+    }
+  ],
+  "@context": {
+    "@version": 1.1,
+    "id": "@id",
+    "type": "@type",
+    "@vocab": "http://www.w3.org/2004/02/skos/core#",
+    "xsd": "http://www.w3.org/2001/XMLSchema#",
+    "dct": "http://purl.org/dc/terms/",
+    "dc": "http://purl.org/dc/elements/1.1/",
+    "schema": "https://schema.org/",
+    "vann": "http://purl.org/vocab/vann/",
+    "ldp": "http://www.w3.org/ns/ldp#",
+    "owl": "http://www.w3.org/2002/07/owl#",
+    "title": {
+      "@id": "dct:title",
+      "@container": "@language"
+    },
+    "dc:title": {
+      "@id": "dc:title",
+      "@container": "@language"
+    },
+    "dc:description": {
+      "@id": "dc:description",
+      "@container": "@language"
+    },
+    "description": {
+      "@id": "dct:description",
+      "@container": "@language"
+    },
+    "issued": {
+      "@id": "dct:issued",
+      "@type": "xsd:date"
+    },
+    "created": {
+      "@id": "dct:created",
+      "@type": "xsd:date"
+    },
+    "modified": {
+      "@id": "dct:modified",
+      "@type": "xsd:date"
+    },
+    "creator": "dct:creator",
+    "publisher": "dct:publisher",
+    "preferredNamespacePrefix": "vann:preferredNamespacePrefix",
+    "preferredNamespaceUri": "vann:preferredNamespaceUri",
+    "isBasedOn": "schema:isBasedOn",
+    "source": "dct:source",
+    "prefLabel": {
+      "@container": "@language"
+    },
+    "altLabel": {
+      "@container": [
+        "@language",
+        "@set"
+      ]
+    },
+    "hiddenLabel": {
+      "@container": [
+        "@language",
+        "@set"
+      ]
+    },
+    "definition": {
+      "@container": "@language"
+    },
+    "note": {
+      "@container": [
+        "@language",
+        "@set"
+      ]
+    },
+    "changeNote": {
+      "@container": [
+        "@language",
+        "@set"
+      ]
+    },
+    "editorialNote": {
+      "@container": [
+        "@language",
+        "@set"
+      ]
+    },
+    "historyNote": {
+      "@container": [
+        "@language",
+        "@set"
+      ]
+    },
+    "scopeNote": {
+      "@container": [
+        "@language",
+        "@set"
+      ]
+    },
+    "notation": {
+      "@container": "@set"
+    },
+    "example": {
+      "@container": "@language"
+    },
+    "narrower": {
+      "@container": "@set"
+    },
+    "related": {
+      "@container": "@set"
+    },
+    "relatedMatch": {
+      "@container": "@set"
+    },
+    "narrowerTransitive": {
+      "@container": "@set"
+    },
+    "broaderTransitive": {
+      "@container": "@set"
+    },
+    "broadMatch": {
+      "@container": "@set"
+    },
+    "narrowMatch": {
+      "@container": "@set"
+    },
+    "closeMatch": {
+      "@container": "@set"
+    },
+    "exactMatch": {
+      "@container": "@set"
+    },
+    "hasTopConcept": {
+      "@container": "@set"
+    },
+    "inScheme": {
+      "@container": "@set"
+    },
+    "topConceptOf": {
+      "@container": "@set"
+    },
+    "deprecated": {
+      "@id": "owl:deprecated",
+      "@type": "xsd:boolean"
+    },
+    "isReplacedBy": {
+      "@id": "dct:isReplacedBy",
+      "@container": "@set"
+    }
+  }
+}

@@ -1,0 +1,304 @@
+{
+  "id": "https://queerlit.dh.gu.se/qlit/v1/nf03ub67",
+  "type": "Concept",
+  "prefLabel": {
+    "sv": "Homosexuella"
+  },
+  "scopeNote": {
+    "sv": [
+      "Används för skildringar av personer som huvudsakligen bli kära i och/eller attraherade av personer av samma kön som dem själva."
+    ]
+  },
+  "narrower": [
+    {
+      "id": "https://queerlit.dh.gu.se/qlit/v1/gc82ev34",
+      "prefLabel": {
+        "sv": "Bögar"
+      }
+    },
+    {
+      "id": "https://queerlit.dh.gu.se/qlit/v1/ml83ih14",
+      "prefLabel": {
+        "sv": "Lesbiska"
+      }
+    },
+    {
+      "id": "https://queerlit.dh.gu.se/qlit/v1/yp38jg66",
+      "prefLabel": {
+        "sv": "Unga homosexuella"
+      }
+    },
+    {
+      "id": "https://queerlit.dh.gu.se/qlit/v1/ac41zr34",
+      "prefLabel": {
+        "sv": "Äldre homosexuella"
+      }
+    },
+    {
+      "id": "https://queerlit.dh.gu.se/qlit/v1/rf38ex77",
+      "prefLabel": {
+        "sv": "Homosexuella par"
+      }
+    },
+    {
+      "id": "https://queerlit.dh.gu.se/qlit/v1/wn14yd68",
+      "prefLabel": {
+        "sv": "Prostituerade homosexuella"
+      }
+    },
+    {
+      "id": "https://queerlit.dh.gu.se/qlit/v1/fg62ba53",
+      "prefLabel": {
+        "sv": "Homosexuella föräldrar"
+      }
+    },
+    {
+      "id": "https://queerlit.dh.gu.se/qlit/v1/np32qn49",
+      "prefLabel": {
+        "sv": "Homosexuella barn"
+      }
+    }
+  ],
+  "broader": {
+    "id": "https://queerlit.dh.gu.se/qlit/v1/ot53zk29",
+    "prefLabel": {
+      "sv": "Hbtqi-personer"
+    }
+  },
+  "related": [
+    {
+      "id": "https://queerlit.dh.gu.se/qlit/v1/rn48mo22",
+      "prefLabel": {
+        "sv": "Partners till homosexuella"
+      }
+    },
+    {
+      "id": "https://queerlit.dh.gu.se/qlit/v1/gb58ld43",
+      "prefLabel": {
+        "sv": "Stockholmare (hbtqi)"
+      }
+    },
+    {
+      "id": "https://queerlit.dh.gu.se/qlit/v1/ih79ot08",
+      "prefLabel": {
+        "sv": "Perverterade"
+      }
+    },
+    {
+      "id": "https://queerlit.dh.gu.se/qlit/v1/up78ob03",
+      "prefLabel": {
+        "sv": "Förföljelse av homosexuella"
+      }
+    },
+    {
+      "id": "https://queerlit.dh.gu.se/qlit/v1/cr97jg35",
+      "prefLabel": {
+        "sv": "Homosexualitet"
+      }
+    },
+    {
+      "id": "https://queerlit.dh.gu.se/qlit/v1/om71eq87",
+      "prefLabel": {
+        "sv": "Såna (hbtqi)"
+      }
+    },
+    {
+      "id": "https://queerlit.dh.gu.se/qlit/v1/kq50iu67",
+      "prefLabel": {
+        "sv": "Homofobi"
+      }
+    },
+    {
+      "id": "https://queerlit.dh.gu.se/qlit/v1/vu78ao12",
+      "prefLabel": {
+        "sv": "Vänner (älskare)"
+      }
+    },
+    {
+      "id": "https://queerlit.dh.gu.se/qlit/v1/af25bs10",
+      "prefLabel": {
+        "sv": "Homosexuella gemenskaper"
+      }
+    },
+    {
+      "id": "https://queerlit.dh.gu.se/qlit/v1/fv17pe76",
+      "prefLabel": {
+        "sv": "Föräldrar till homosexuella"
+      }
+    },
+    {
+      "id": "https://queerlit.dh.gu.se/qlit/v1/br29bz72",
+      "prefLabel": {
+        "sv": "Allosexualitet"
+      }
+    }
+  ],
+  "closeMatch": [
+    {
+      "id": "http://id.loc.gov/authorities/subjects/sh85061795"
+    },
+    {
+      "id": "https://homosaurus.org/v3/homoit0000648"
+    }
+  ],
+  "exactMatch": [
+    {
+      "id": "https://id.kb.se/term/sao/Homosexuella"
+    }
+  ],
+  "inScheme": [
+    {
+      "id": "https://queerlit.dh.gu.se/qlit/v1"
+    }
+  ],
+  "inSchemeAll": [
+    {
+      "id": "https://queerlit.dh.gu.se/qlit/v1"
+    }
+  ],
+  "@context": {
+    "@version": 1.1,
+    "id": "@id",
+    "type": "@type",
+    "@vocab": "http://www.w3.org/2004/02/skos/core#",
+    "xsd": "http://www.w3.org/2001/XMLSchema#",
+    "dct": "http://purl.org/dc/terms/",
+    "dc": "http://purl.org/dc/elements/1.1/",
+    "schema": "https://schema.org/",
+    "vann": "http://purl.org/vocab/vann/",
+    "ldp": "http://www.w3.org/ns/ldp#",
+    "owl": "http://www.w3.org/2002/07/owl#",
+    "title": {
+      "@id": "dct:title",
+      "@container": "@language"
+    },
+    "dc:title": {
+      "@id": "dc:title",
+      "@container": "@language"
+    },
+    "dc:description": {
+      "@id": "dc:description",
+      "@container": "@language"
+    },
+    "description": {
+      "@id": "dct:description",
+      "@container": "@language"
+    },
+    "issued": {
+      "@id": "dct:issued",
+      "@type": "xsd:date"
+    },
+    "created": {
+      "@id": "dct:created",
+      "@type": "xsd:date"
+    },
+    "modified": {
+      "@id": "dct:modified",
+      "@type": "xsd:date"
+    },
+    "creator": "dct:creator",
+    "publisher": "dct:publisher",
+    "preferredNamespacePrefix": "vann:preferredNamespacePrefix",
+    "preferredNamespaceUri": "vann:preferredNamespaceUri",
+    "isBasedOn": "schema:isBasedOn",
+    "source": "dct:source",
+    "prefLabel": {
+      "@container": "@language"
+    },
+    "altLabel": {
+      "@container": [
+        "@language",
+        "@set"
+      ]
+    },
+    "hiddenLabel": {
+      "@container": [
+        "@language",
+        "@set"
+      ]
+    },
+    "definition": {
+      "@container": "@language"
+    },
+    "note": {
+      "@container": [
+        "@language",
+        "@set"
+      ]
+    },
+    "changeNote": {
+      "@container": [
+        "@language",
+        "@set"
+      ]
+    },
+    "editorialNote": {
+      "@container": [
+        "@language",
+        "@set"
+      ]
+    },
+    "historyNote": {
+      "@container": [
+        "@language",
+        "@set"
+      ]
+    },
+    "scopeNote": {
+      "@container": [
+        "@language",
+        "@set"
+      ]
+    },
+    "notation": {
+      "@container": "@set"
+    },
+    "example": {
+      "@container": "@language"
+    },
+    "narrower": {
+      "@container": "@set"
+    },
+    "related": {
+      "@container": "@set"
+    },
+    "relatedMatch": {
+      "@container": "@set"
+    },
+    "narrowerTransitive": {
+      "@container": "@set"
+    },
+    "broaderTransitive": {
+      "@container": "@set"
+    },
+    "broadMatch": {
+      "@container": "@set"
+    },
+    "narrowMatch": {
+      "@container": "@set"
+    },
+    "closeMatch": {
+      "@container": "@set"
+    },
+    "exactMatch": {
+      "@container": "@set"
+    },
+    "hasTopConcept": {
+      "@container": "@set"
+    },
+    "inScheme": {
+      "@container": "@set"
+    },
+    "topConceptOf": {
+      "@container": "@set"
+    },
+    "deprecated": {
+      "@id": "owl:deprecated",
+      "@type": "xsd:boolean"
+    },
+    "isReplacedBy": {
+      "@id": "dct:isReplacedBy",
+      "@container": "@set"
+    }
+  }
+}

@@ -1,0 +1,244 @@
+{
+  "id": "https://queerlit.dh.gu.se/qlit/v1/wp43vv13",
+  "type": "Collection",
+  "prefLabel": {
+    "sv": "Tema: Rörelser och rättigheter (hbtqi)"
+  },
+  "member": [
+    {
+      "id": "https://queerlit.dh.gu.se/qlit/v1/aj40pz93",
+      "prefLabel": {
+        "sv": "Sociala processer (hbtqi)"
+      }
+    },
+    {
+      "id": "https://queerlit.dh.gu.se/qlit/v1/ap82ka21",
+      "prefLabel": {
+        "sv": "Hbtqi-aktivism"
+      }
+    },
+    {
+      "id": "https://queerlit.dh.gu.se/qlit/v1/as34mb58",
+      "prefLabel": {
+        "sv": "Hbtqi-mötesplatser"
+      }
+    },
+    {
+      "id": "https://queerlit.dh.gu.se/qlit/v1/hc32bh86",
+      "prefLabel": {
+        "sv": "Sexuell revolution"
+      }
+    },
+    {
+      "id": "https://queerlit.dh.gu.se/qlit/v1/ij02nz52",
+      "prefLabel": {
+        "sv": "Hbtqi-föreningar"
+      }
+    },
+    {
+      "id": "https://queerlit.dh.gu.se/qlit/v1/kb69pe59",
+      "prefLabel": {
+        "sv": "Feminism"
+      }
+    },
+    {
+      "id": "https://queerlit.dh.gu.se/qlit/v1/lj92bs38",
+      "prefLabel": {
+        "sv": "Kravaller (hbtqi)"
+      }
+    },
+    {
+      "id": "https://queerlit.dh.gu.se/qlit/v1/no07qg24",
+      "prefLabel": {
+        "sv": "Rättsstatus"
+      }
+    },
+    {
+      "id": "https://queerlit.dh.gu.se/qlit/v1/pn94ds23",
+      "prefLabel": {
+        "sv": "Hbtqi-gemenskaper"
+      }
+    },
+    {
+      "id": "https://queerlit.dh.gu.se/qlit/v1/qc44ku86",
+      "prefLabel": {
+        "sv": "Feminister"
+      }
+    },
+    {
+      "id": "https://queerlit.dh.gu.se/qlit/v1/qs37gp76",
+      "prefLabel": {
+        "sv": "Mänskliga rättigheter"
+      }
+    },
+    {
+      "id": "https://queerlit.dh.gu.se/qlit/v1/sv13oe15",
+      "prefLabel": {
+        "sv": "Hbtqi-minnesmärken"
+      }
+    },
+    {
+      "id": "https://queerlit.dh.gu.se/qlit/v1/sw59hr91",
+      "prefLabel": {
+        "sv": "Sociala rörelser"
+      }
+    },
+    {
+      "id": "https://queerlit.dh.gu.se/qlit/v1/ul49bf14",
+      "prefLabel": {
+        "sv": "Normalisering"
+      }
+    },
+    {
+      "id": "https://queerlit.dh.gu.se/qlit/v1/ux32oc19",
+      "prefLabel": {
+        "sv": "Hbtqi-separatism"
+      }
+    }
+  ],
+  "@context": {
+    "@version": 1.1,
+    "id": "@id",
+    "type": "@type",
+    "@vocab": "http://www.w3.org/2004/02/skos/core#",
+    "xsd": "http://www.w3.org/2001/XMLSchema#",
+    "dct": "http://purl.org/dc/terms/",
+    "dc": "http://purl.org/dc/elements/1.1/",
+    "schema": "https://schema.org/",
+    "vann": "http://purl.org/vocab/vann/",
+    "ldp": "http://www.w3.org/ns/ldp#",
+    "owl": "http://www.w3.org/2002/07/owl#",
+    "title": {
+      "@id": "dct:title",
+      "@container": "@language"
+    },
+    "dc:title": {
+      "@id": "dc:title",
+      "@container": "@language"
+    },
+    "dc:description": {
+      "@id": "dc:description",
+      "@container": "@language"
+    },
+    "description": {
+      "@id": "dct:description",
+      "@container": "@language"
+    },
+    "issued": {
+      "@id": "dct:issued",
+      "@type": "xsd:date"
+    },
+    "created": {
+      "@id": "dct:created",
+      "@type": "xsd:date"
+    },
+    "modified": {
+      "@id": "dct:modified",
+      "@type": "xsd:date"
+    },
+    "creator": "dct:creator",
+    "publisher": "dct:publisher",
+    "preferredNamespacePrefix": "vann:preferredNamespacePrefix",
+    "preferredNamespaceUri": "vann:preferredNamespaceUri",
+    "isBasedOn": "schema:isBasedOn",
+    "source": "dct:source",
+    "prefLabel": {
+      "@container": "@language"
+    },
+    "altLabel": {
+      "@container": [
+        "@language",
+        "@set"
+      ]
+    },
+    "hiddenLabel": {
+      "@container": [
+        "@language",
+        "@set"
+      ]
+    },
+    "definition": {
+      "@container": "@language"
+    },
+    "note": {
+      "@container": [
+        "@language",
+        "@set"
+      ]
+    },
+    "changeNote": {
+      "@container": [
+        "@language",
+        "@set"
+      ]
+    },
+    "editorialNote": {
+      "@container": [
+        "@language",
+        "@set"
+      ]
+    },
+    "historyNote": {
+      "@container": [
+        "@language",
+        "@set"
+      ]
+    },
+    "scopeNote": {
+      "@container": [
+        "@language",
+        "@set"
+      ]
+    },
+    "notation": {
+      "@container": "@set"
+    },
+    "example": {
+      "@container": "@language"
+    },
+    "narrower": {
+      "@container": "@set"
+    },
+    "related": {
+      "@container": "@set"
+    },
+    "relatedMatch": {
+      "@container": "@set"
+    },
+    "narrowerTransitive": {
+      "@container": "@set"
+    },
+    "broaderTransitive": {
+      "@container": "@set"
+    },
+    "broadMatch": {
+      "@container": "@set"
+    },
+    "narrowMatch": {
+      "@container": "@set"
+    },
+    "closeMatch": {
+      "@container": "@set"
+    },
+    "exactMatch": {
+      "@container": "@set"
+    },
+    "hasTopConcept": {
+      "@container": "@set"
+    },
+    "inScheme": {
+      "@container": "@set"
+    },
+    "topConceptOf": {
+      "@container": "@set"
+    },
+    "deprecated": {
+      "@id": "owl:deprecated",
+      "@type": "xsd:boolean"
+    },
+    "isReplacedBy": {
+      "@id": "dct:isReplacedBy",
+      "@container": "@set"
+    }
+  }
+}

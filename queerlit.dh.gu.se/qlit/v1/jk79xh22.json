@@ -1,0 +1,366 @@
+{
+  "id": "https://queerlit.dh.gu.se/qlit/v1/jk79xh22",
+  "type": "Concept",
+  "prefLabel": {
+    "sv": "Sexhjälpmedel"
+  },
+  "altLabel": {
+    "sv": [
+      "Sexaccessoarer"
+    ]
+  },
+  "scopeNote": {
+    "sv": [
+      "Används för skildringar av olika typer av föremål som används i sexuella praktiker."
+    ]
+  },
+  "narrower": [
+    {
+      "id": "https://queerlit.dh.gu.se/qlit/v1/an00td75",
+      "prefLabel": {
+        "sv": "Handklovar"
+      }
+    },
+    {
+      "id": "https://queerlit.dh.gu.se/qlit/v1/dr51oz53",
+      "prefLabel": {
+        "sv": "Floggers"
+      }
+    },
+    {
+      "id": "https://queerlit.dh.gu.se/qlit/v1/fj02md55",
+      "prefLabel": {
+        "sv": "Korsetter"
+      }
+    },
+    {
+      "id": "https://queerlit.dh.gu.se/qlit/v1/hl46kq11",
+      "prefLabel": {
+        "sv": "Spridstänger"
+      }
+    },
+    {
+      "id": "https://queerlit.dh.gu.se/qlit/v1/ht02we27",
+      "prefLabel": {
+        "sv": "Sexdockor"
+      }
+    },
+    {
+      "id": "https://queerlit.dh.gu.se/qlit/v1/ib25io11",
+      "prefLabel": {
+        "sv": "Smiskpaddlar"
+      }
+    },
+    {
+      "id": "https://queerlit.dh.gu.se/qlit/v1/io23hn96",
+      "prefLabel": {
+        "sv": "Harness"
+      }
+    },
+    {
+      "id": "https://queerlit.dh.gu.se/qlit/v1/nf77ch22",
+      "prefLabel": {
+        "sv": "Bröstvårtsklämmor"
+      }
+    },
+    {
+      "id": "https://queerlit.dh.gu.se/qlit/v1/nw79ul63",
+      "prefLabel": {
+        "sv": "Glidmedel"
+      }
+    },
+    {
+      "id": "https://queerlit.dh.gu.se/qlit/v1/qj64si34",
+      "prefLabel": {
+        "sv": "Koppel"
+      }
+    },
+    {
+      "id": "https://queerlit.dh.gu.se/qlit/v1/vs00ep87",
+      "prefLabel": {
+        "sv": "Halsband (BDSM)"
+      }
+    },
+    {
+      "id": "https://queerlit.dh.gu.se/qlit/v1/ab59jh24",
+      "prefLabel": {
+        "sv": "Analkulor"
+      }
+    },
+    {
+      "id": "https://queerlit.dh.gu.se/qlit/v1/bf78mj81",
+      "prefLabel": {
+        "sv": "Disciplinbollar"
+      }
+    },
+    {
+      "id": "https://queerlit.dh.gu.se/qlit/v1/am48aq94",
+      "prefLabel": {
+        "sv": "Piskor"
+      }
+    },
+    {
+      "id": "https://queerlit.dh.gu.se/qlit/v1/sn06dm80",
+      "prefLabel": {
+        "sv": "Replekar (BDSM)"
+      }
+    },
+    {
+      "id": "https://queerlit.dh.gu.se/qlit/v1/ve81km34",
+      "prefLabel": {
+        "sv": "Ögonbindlar"
+      }
+    },
+    {
+      "id": "https://queerlit.dh.gu.se/qlit/v1/vr63wa97",
+      "prefLabel": {
+        "sv": "Vibratorer"
+      }
+    },
+    {
+      "id": "https://queerlit.dh.gu.se/qlit/v1/qb93wl71",
+      "prefLabel": {
+        "sv": "Dildoar"
+      }
+    },
+    {
+      "id": "https://queerlit.dh.gu.se/qlit/v1/wl92mo41",
+      "prefLabel": {
+        "sv": "Penisringar"
+      }
+    },
+    {
+      "id": "https://queerlit.dh.gu.se/qlit/v1/wt82mm95",
+      "prefLabel": {
+        "sv": "Slicklappar"
+      }
+    },
+    {
+      "id": "https://queerlit.dh.gu.se/qlit/v1/zn22hl53",
+      "prefLabel": {
+        "sv": "Latexhandskar"
+      }
+    },
+    {
+      "id": "https://queerlit.dh.gu.se/qlit/v1/ch90bb15",
+      "prefLabel": {
+        "sv": "Underkläder"
+      }
+    },
+    {
+      "id": "https://queerlit.dh.gu.se/qlit/v1/cn23yx07",
+      "prefLabel": {
+        "sv": "Poppers"
+      }
+    },
+    {
+      "id": "https://queerlit.dh.gu.se/qlit/v1/kd49dt22",
+      "prefLabel": {
+        "sv": "Kondomer"
+      }
+    },
+    {
+      "id": "https://queerlit.dh.gu.se/qlit/v1/yl85hr37",
+      "prefLabel": {
+        "sv": "Buttpluggar"
+      }
+    }
+  ],
+  "related": [
+    {
+      "id": "https://queerlit.dh.gu.se/qlit/v1/jy58jm84",
+      "prefLabel": {
+        "sv": "Sexualitet"
+      }
+    },
+    {
+      "id": "https://queerlit.dh.gu.se/qlit/v1/of65zl26",
+      "prefLabel": {
+        "sv": "Sexuella praktiker"
+      }
+    },
+    {
+      "id": "https://queerlit.dh.gu.se/qlit/v1/sq10os38",
+      "prefLabel": {
+        "sv": "Sex"
+      }
+    },
+    {
+      "id": "https://queerlit.dh.gu.se/qlit/v1/ku57iu26",
+      "prefLabel": {
+        "sv": "Sexbutiker"
+      }
+    }
+  ],
+  "exactMatch": [
+    {
+      "id": "http://id.loc.gov/authorities/subjects/sh2006001007"
+    },
+    {
+      "id": "https://homosaurus.org/v3/homoit0001266"
+    },
+    {
+      "id": "https://id.kb.se/term/sao/Sexleksaker"
+    }
+  ],
+  "inScheme": [
+    {
+      "id": "https://queerlit.dh.gu.se/qlit/v1"
+    }
+  ],
+  "inSchemeAll": [
+    {
+      "id": "https://queerlit.dh.gu.se/qlit/v1"
+    }
+  ],
+  "topConceptOf": [
+    {
+      "id": "https://queerlit.dh.gu.se/qlit/v1"
+    }
+  ],
+  "@context": {
+    "@version": 1.1,
+    "id": "@id",
+    "type": "@type",
+    "@vocab": "http://www.w3.org/2004/02/skos/core#",
+    "xsd": "http://www.w3.org/2001/XMLSchema#",
+    "dct": "http://purl.org/dc/terms/",
+    "dc": "http://purl.org/dc/elements/1.1/",
+    "schema": "https://schema.org/",
+    "vann": "http://purl.org/vocab/vann/",
+    "ldp": "http://www.w3.org/ns/ldp#",
+    "owl": "http://www.w3.org/2002/07/owl#",
+    "title": {
+      "@id": "dct:title",
+      "@container": "@language"
+    },
+    "dc:title": {
+      "@id": "dc:title",
+      "@container": "@language"
+    },
+    "dc:description": {
+      "@id": "dc:description",
+      "@container": "@language"
+    },
+    "description": {
+      "@id": "dct:description",
+      "@container": "@language"
+    },
+    "issued": {
+      "@id": "dct:issued",
+      "@type": "xsd:date"
+    },
+    "created": {
+      "@id": "dct:created",
+      "@type": "xsd:date"
+    },
+    "modified": {
+      "@id": "dct:modified",
+      "@type": "xsd:date"
+    },
+    "creator": "dct:creator",
+    "publisher": "dct:publisher",
+    "preferredNamespacePrefix": "vann:preferredNamespacePrefix",
+    "preferredNamespaceUri": "vann:preferredNamespaceUri",
+    "isBasedOn": "schema:isBasedOn",
+    "source": "dct:source",
+    "prefLabel": {
+      "@container": "@language"
+    },
+    "altLabel": {
+      "@container": [
+        "@language",
+        "@set"
+      ]
+    },
+    "hiddenLabel": {
+      "@container": [
+        "@language",
+        "@set"
+      ]
+    },
+    "definition": {
+      "@container": "@language"
+    },
+    "note": {
+      "@container": [
+        "@language",
+        "@set"
+      ]
+    },
+    "changeNote": {
+      "@container": [
+        "@language",
+        "@set"
+      ]
+    },
+    "editorialNote": {
+      "@container": [
+        "@language",
+        "@set"
+      ]
+    },
+    "historyNote": {
+      "@container": [
+        "@language",
+        "@set"
+      ]
+    },
+    "scopeNote": {
+      "@container": [
+        "@language",
+        "@set"
+      ]
+    },
+    "notation": {
+      "@container": "@set"
+    },
+    "example": {
+      "@container": "@language"
+    },
+    "narrower": {
+      "@container": "@set"
+    },
+    "related": {
+      "@container": "@set"
+    },
+    "relatedMatch": {
+      "@container": "@set"
+    },
+    "narrowerTransitive": {
+      "@container": "@set"
+    },
+    "broaderTransitive": {
+      "@container": "@set"
+    },
+    "broadMatch": {
+      "@container": "@set"
+    },
+    "narrowMatch": {
+      "@container": "@set"
+    },
+    "closeMatch": {
+      "@container": "@set"
+    },
+    "exactMatch": {
+      "@container": "@set"
+    },
+    "hasTopConcept": {
+      "@container": "@set"
+    },
+    "inScheme": {
+      "@container": "@set"
+    },
+    "topConceptOf": {
+      "@container": "@set"
+    },
+    "deprecated": {
+      "@id": "owl:deprecated",
+      "@type": "xsd:boolean"
+    },
+    "isReplacedBy": {
+      "@id": "dct:isReplacedBy",
+      "@container": "@set"
+    }
+  }
+}

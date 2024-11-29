@@ -1,0 +1,244 @@
+{
+  "id": "https://queerlit.dh.gu.se/qlit/v1/eh72ht67",
+  "type": "Collection",
+  "prefLabel": {
+    "sv": "Tema: Relationer (hbtqi)"
+  },
+  "member": [
+    {
+      "id": "https://queerlit.dh.gu.se/qlit/v1/ba46pk33",
+      "prefLabel": {
+        "sv": "Samlevnadsformer"
+      }
+    },
+    {
+      "id": "https://queerlit.dh.gu.se/qlit/v1/ev61wd95",
+      "prefLabel": {
+        "sv": "Diskretion (hbtqi)"
+      }
+    },
+    {
+      "id": "https://queerlit.dh.gu.se/qlit/v1/hu08zy84",
+      "prefLabel": {
+        "sv": "Spekulationer (hbtqi)"
+      }
+    },
+    {
+      "id": "https://queerlit.dh.gu.se/qlit/v1/ix39kn40",
+      "prefLabel": {
+        "sv": "Relationspreferens"
+      }
+    },
+    {
+      "id": "https://queerlit.dh.gu.se/qlit/v1/jc34hl12",
+      "prefLabel": {
+        "sv": "Celibat"
+      }
+    },
+    {
+      "id": "https://queerlit.dh.gu.se/qlit/v1/kp91xn92",
+      "prefLabel": {
+        "sv": "Komma ut"
+      }
+    },
+    {
+      "id": "https://queerlit.dh.gu.se/qlit/v1/lm49rl65",
+      "prefLabel": {
+        "sv": "Relationer (hbtqi)"
+      }
+    },
+    {
+      "id": "https://queerlit.dh.gu.se/qlit/v1/ni09mn87",
+      "prefLabel": {
+        "sv": "Skaffa barn (hbtqi)"
+      }
+    },
+    {
+      "id": "https://queerlit.dh.gu.se/qlit/v1/sr56ul39",
+      "prefLabel": {
+        "sv": "Hbtqi-familjer"
+      }
+    },
+    {
+      "id": "https://queerlit.dh.gu.se/qlit/v1/um90bw50",
+      "prefLabel": {
+        "sv": "Familjemedlemmar"
+      }
+    },
+    {
+      "id": "https://queerlit.dh.gu.se/qlit/v1/uz31xm23",
+      "prefLabel": {
+        "sv": "Bröllop (hbtqi)"
+      }
+    },
+    {
+      "id": "https://queerlit.dh.gu.se/qlit/v1/xf74zb26",
+      "prefLabel": {
+        "sv": "Barnlängtan"
+      }
+    },
+    {
+      "id": "https://queerlit.dh.gu.se/qlit/v1/xv86md55",
+      "prefLabel": {
+        "sv": "Homosocialitet"
+      }
+    },
+    {
+      "id": "https://queerlit.dh.gu.se/qlit/v1/yi63rn93",
+      "prefLabel": {
+        "sv": "Svartsjuka (hbtqi)"
+      }
+    },
+    {
+      "id": "https://queerlit.dh.gu.se/qlit/v1/yu17am57",
+      "prefLabel": {
+        "sv": "Döden och döende (hbtqi)"
+      }
+    }
+  ],
+  "@context": {
+    "@version": 1.1,
+    "id": "@id",
+    "type": "@type",
+    "@vocab": "http://www.w3.org/2004/02/skos/core#",
+    "xsd": "http://www.w3.org/2001/XMLSchema#",
+    "dct": "http://purl.org/dc/terms/",
+    "dc": "http://purl.org/dc/elements/1.1/",
+    "schema": "https://schema.org/",
+    "vann": "http://purl.org/vocab/vann/",
+    "ldp": "http://www.w3.org/ns/ldp#",
+    "owl": "http://www.w3.org/2002/07/owl#",
+    "title": {
+      "@id": "dct:title",
+      "@container": "@language"
+    },
+    "dc:title": {
+      "@id": "dc:title",
+      "@container": "@language"
+    },
+    "dc:description": {
+      "@id": "dc:description",
+      "@container": "@language"
+    },
+    "description": {
+      "@id": "dct:description",
+      "@container": "@language"
+    },
+    "issued": {
+      "@id": "dct:issued",
+      "@type": "xsd:date"
+    },
+    "created": {
+      "@id": "dct:created",
+      "@type": "xsd:date"
+    },
+    "modified": {
+      "@id": "dct:modified",
+      "@type": "xsd:date"
+    },
+    "creator": "dct:creator",
+    "publisher": "dct:publisher",
+    "preferredNamespacePrefix": "vann:preferredNamespacePrefix",
+    "preferredNamespaceUri": "vann:preferredNamespaceUri",
+    "isBasedOn": "schema:isBasedOn",
+    "source": "dct:source",
+    "prefLabel": {
+      "@container": "@language"
+    },
+    "altLabel": {
+      "@container": [
+        "@language",
+        "@set"
+      ]
+    },
+    "hiddenLabel": {
+      "@container": [
+        "@language",
+        "@set"
+      ]
+    },
+    "definition": {
+      "@container": "@language"
+    },
+    "note": {
+      "@container": [
+        "@language",
+        "@set"
+      ]
+    },
+    "changeNote": {
+      "@container": [
+        "@language",
+        "@set"
+      ]
+    },
+    "editorialNote": {
+      "@container": [
+        "@language",
+        "@set"
+      ]
+    },
+    "historyNote": {
+      "@container": [
+        "@language",
+        "@set"
+      ]
+    },
+    "scopeNote": {
+      "@container": [
+        "@language",
+        "@set"
+      ]
+    },
+    "notation": {
+      "@container": "@set"
+    },
+    "example": {
+      "@container": "@language"
+    },
+    "narrower": {
+      "@container": "@set"
+    },
+    "related": {
+      "@container": "@set"
+    },
+    "relatedMatch": {
+      "@container": "@set"
+    },
+    "narrowerTransitive": {
+      "@container": "@set"
+    },
+    "broaderTransitive": {
+      "@container": "@set"
+    },
+    "broadMatch": {
+      "@container": "@set"
+    },
+    "narrowMatch": {
+      "@container": "@set"
+    },
+    "closeMatch": {
+      "@container": "@set"
+    },
+    "exactMatch": {
+      "@container": "@set"
+    },
+    "hasTopConcept": {
+      "@container": "@set"
+    },
+    "inScheme": {
+      "@container": "@set"
+    },
+    "topConceptOf": {
+      "@container": "@set"
+    },
+    "deprecated": {
+      "@id": "owl:deprecated",
+      "@type": "xsd:boolean"
+    },
+    "isReplacedBy": {
+      "@id": "dct:isReplacedBy",
+      "@container": "@set"
+    }
+  }
+}

@@ -1,0 +1,256 @@
+{
+  "id": "https://queerlit.dh.gu.se/qlit/v1/ml53hr68",
+  "type": "Collection",
+  "prefLabel": {
+    "sv": "Tema: Identiteter och praktiker (hbtqi)"
+  },
+  "member": [
+    {
+      "id": "https://queerlit.dh.gu.se/qlit/v1/by72wh90",
+      "prefLabel": {
+        "sv": "Personer som lever med hiv"
+      }
+    },
+    {
+      "id": "https://queerlit.dh.gu.se/qlit/v1/dl13tg08",
+      "prefLabel": {
+        "sv": "Hbtqi+"
+      }
+    },
+    {
+      "id": "https://queerlit.dh.gu.se/qlit/v1/dt87hy25",
+      "prefLabel": {
+        "sv": "Äldre"
+      }
+    },
+    {
+      "id": "https://queerlit.dh.gu.se/qlit/v1/ga70uy71",
+      "prefLabel": {
+        "sv": "Heterosexuella"
+      }
+    },
+    {
+      "id": "https://queerlit.dh.gu.se/qlit/v1/gz65sa45",
+      "prefLabel": {
+        "sv": "Barn"
+      }
+    },
+    {
+      "id": "https://queerlit.dh.gu.se/qlit/v1/he13pb69",
+      "prefLabel": {
+        "sv": "Könsöverskridanden"
+      }
+    },
+    {
+      "id": "https://queerlit.dh.gu.se/qlit/v1/iy93lr17",
+      "prefLabel": {
+        "sv": "Sexuell identitet"
+      }
+    },
+    {
+      "id": "https://queerlit.dh.gu.se/qlit/v1/oh06mw89",
+      "prefLabel": {
+        "sv": "Latent homosexualitet"
+      }
+    },
+    {
+      "id": "https://queerlit.dh.gu.se/qlit/v1/ot53zk29",
+      "prefLabel": {
+        "sv": "Hbtqi-personer"
+      }
+    },
+    {
+      "id": "https://queerlit.dh.gu.se/qlit/v1/pf53mb18",
+      "prefLabel": {
+        "sv": "Okönade personer"
+      }
+    },
+    {
+      "id": "https://queerlit.dh.gu.se/qlit/v1/pj39xm88",
+      "prefLabel": {
+        "sv": "Rollbeteende"
+      }
+    },
+    {
+      "id": "https://queerlit.dh.gu.se/qlit/v1/pk82yt24",
+      "prefLabel": {
+        "sv": "Situationsbetingat sexuellt beteende"
+      }
+    },
+    {
+      "id": "https://queerlit.dh.gu.se/qlit/v1/qj48lh67",
+      "prefLabel": {
+        "sv": "Historiska termer (hbtqi)"
+      }
+    },
+    {
+      "id": "https://queerlit.dh.gu.se/qlit/v1/ss55ax39",
+      "prefLabel": {
+        "sv": "Kön"
+      }
+    },
+    {
+      "id": "https://queerlit.dh.gu.se/qlit/v1/wv53po26",
+      "prefLabel": {
+        "sv": "Ungdomar"
+      }
+    },
+    {
+      "id": "https://queerlit.dh.gu.se/qlit/v1/zq29sy82",
+      "prefLabel": {
+        "sv": "Asexuella"
+      }
+    },
+    {
+      "id": "https://queerlit.dh.gu.se/qlit/v1/zv66nv87",
+      "prefLabel": {
+        "sv": "Sexuell läggning"
+      }
+    }
+  ],
+  "@context": {
+    "@version": 1.1,
+    "id": "@id",
+    "type": "@type",
+    "@vocab": "http://www.w3.org/2004/02/skos/core#",
+    "xsd": "http://www.w3.org/2001/XMLSchema#",
+    "dct": "http://purl.org/dc/terms/",
+    "dc": "http://purl.org/dc/elements/1.1/",
+    "schema": "https://schema.org/",
+    "vann": "http://purl.org/vocab/vann/",
+    "ldp": "http://www.w3.org/ns/ldp#",
+    "owl": "http://www.w3.org/2002/07/owl#",
+    "title": {
+      "@id": "dct:title",
+      "@container": "@language"
+    },
+    "dc:title": {
+      "@id": "dc:title",
+      "@container": "@language"
+    },
+    "dc:description": {
+      "@id": "dc:description",
+      "@container": "@language"
+    },
+    "description": {
+      "@id": "dct:description",
+      "@container": "@language"
+    },
+    "issued": {
+      "@id": "dct:issued",
+      "@type": "xsd:date"
+    },
+    "created": {
+      "@id": "dct:created",
+      "@type": "xsd:date"
+    },
+    "modified": {
+      "@id": "dct:modified",
+      "@type": "xsd:date"
+    },
+    "creator": "dct:creator",
+    "publisher": "dct:publisher",
+    "preferredNamespacePrefix": "vann:preferredNamespacePrefix",
+    "preferredNamespaceUri": "vann:preferredNamespaceUri",
+    "isBasedOn": "schema:isBasedOn",
+    "source": "dct:source",
+    "prefLabel": {
+      "@container": "@language"
+    },
+    "altLabel": {
+      "@container": [
+        "@language",
+        "@set"
+      ]
+    },
+    "hiddenLabel": {
+      "@container": [
+        "@language",
+        "@set"
+      ]
+    },
+    "definition": {
+      "@container": "@language"
+    },
+    "note": {
+      "@container": [
+        "@language",
+        "@set"
+      ]
+    },
+    "changeNote": {
+      "@container": [
+        "@language",
+        "@set"
+      ]
+    },
+    "editorialNote": {
+      "@container": [
+        "@language",
+        "@set"
+      ]
+    },
+    "historyNote": {
+      "@container": [
+        "@language",
+        "@set"
+      ]
+    },
+    "scopeNote": {
+      "@container": [
+        "@language",
+        "@set"
+      ]
+    },
+    "notation": {
+      "@container": "@set"
+    },
+    "example": {
+      "@container": "@language"
+    },
+    "narrower": {
+      "@container": "@set"
+    },
+    "related": {
+      "@container": "@set"
+    },
+    "relatedMatch": {
+      "@container": "@set"
+    },
+    "narrowerTransitive": {
+      "@container": "@set"
+    },
+    "broaderTransitive": {
+      "@container": "@set"
+    },
+    "broadMatch": {
+      "@container": "@set"
+    },
+    "narrowMatch": {
+      "@container": "@set"
+    },
+    "closeMatch": {
+      "@container": "@set"
+    },
+    "exactMatch": {
+      "@container": "@set"
+    },
+    "hasTopConcept": {
+      "@container": "@set"
+    },
+    "inScheme": {
+      "@container": "@set"
+    },
+    "topConceptOf": {
+      "@container": "@set"
+    },
+    "deprecated": {
+      "@id": "owl:deprecated",
+      "@type": "xsd:boolean"
+    },
+    "isReplacedBy": {
+      "@id": "dct:isReplacedBy",
+      "@container": "@set"
+    }
+  }
+}

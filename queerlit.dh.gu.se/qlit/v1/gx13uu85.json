@@ -1,0 +1,244 @@
+{
+  "id": "https://queerlit.dh.gu.se/qlit/v1/gx13uu85",
+  "type": "Concept",
+  "prefLabel": {
+    "sv": "SM"
+  },
+  "altLabel": {
+    "sv": [
+      "Algolagni"
+    ]
+  },
+  "scopeNote": {
+    "sv": [
+      "Används för skildringar av sexuella praktiker som innefattar tillfogande och upplevande av smärta."
+    ]
+  },
+  "narrower": [
+    {
+      "id": "https://queerlit.dh.gu.se/qlit/v1/he19hd60",
+      "prefLabel": {
+        "sv": "Prygel"
+      }
+    },
+    {
+      "id": "https://queerlit.dh.gu.se/qlit/v1/wq23bh00",
+      "prefLabel": {
+        "sv": "Smiskning"
+      }
+    },
+    {
+      "id": "https://queerlit.dh.gu.se/qlit/v1/qb31sd30",
+      "prefLabel": {
+        "sv": "Masochism"
+      }
+    },
+    {
+      "id": "https://queerlit.dh.gu.se/qlit/v1/tk37pb02",
+      "prefLabel": {
+        "sv": "Sadism"
+      }
+    }
+  ],
+  "broader": {
+    "id": "https://queerlit.dh.gu.se/qlit/v1/oj77yj15",
+    "prefLabel": {
+      "sv": "BDSM"
+    }
+  },
+  "related": [
+    {
+      "id": "https://queerlit.dh.gu.se/qlit/v1/eo15qd89",
+      "prefLabel": {
+        "sv": "Lädergemenskaper"
+      }
+    },
+    {
+      "id": "https://queerlit.dh.gu.se/qlit/v1/pp33on45",
+      "prefLabel": {
+        "sv": "Gummisex"
+      }
+    },
+    {
+      "id": "https://queerlit.dh.gu.se/qlit/v1/yp17xt81",
+      "prefLabel": {
+        "sv": "SM-rörelser"
+      }
+    },
+    {
+      "id": "https://queerlit.dh.gu.se/qlit/v1/wo70nt95",
+      "prefLabel": {
+        "sv": "Läderfamiljer"
+      }
+    },
+    {
+      "id": "https://queerlit.dh.gu.se/qlit/v1/nh99bq54",
+      "prefLabel": {
+        "sv": "Sexslavar (hbtqi)"
+      }
+    }
+  ],
+  "exactMatch": [
+    {
+      "id": "http://id.loc.gov/authorities/subjects/sh85120740"
+    },
+    {
+      "id": "https://homosaurus.org/v3/homoit0000036"
+    }
+  ],
+  "inScheme": [
+    {
+      "id": "https://queerlit.dh.gu.se/qlit/v1"
+    }
+  ],
+  "inSchemeAll": [
+    {
+      "id": "https://queerlit.dh.gu.se/qlit/v1"
+    }
+  ],
+  "@context": {
+    "@version": 1.1,
+    "id": "@id",
+    "type": "@type",
+    "@vocab": "http://www.w3.org/2004/02/skos/core#",
+    "xsd": "http://www.w3.org/2001/XMLSchema#",
+    "dct": "http://purl.org/dc/terms/",
+    "dc": "http://purl.org/dc/elements/1.1/",
+    "schema": "https://schema.org/",
+    "vann": "http://purl.org/vocab/vann/",
+    "ldp": "http://www.w3.org/ns/ldp#",
+    "owl": "http://www.w3.org/2002/07/owl#",
+    "title": {
+      "@id": "dct:title",
+      "@container": "@language"
+    },
+    "dc:title": {
+      "@id": "dc:title",
+      "@container": "@language"
+    },
+    "dc:description": {
+      "@id": "dc:description",
+      "@container": "@language"
+    },
+    "description": {
+      "@id": "dct:description",
+      "@container": "@language"
+    },
+    "issued": {
+      "@id": "dct:issued",
+      "@type": "xsd:date"
+    },
+    "created": {
+      "@id": "dct:created",
+      "@type": "xsd:date"
+    },
+    "modified": {
+      "@id": "dct:modified",
+      "@type": "xsd:date"
+    },
+    "creator": "dct:creator",
+    "publisher": "dct:publisher",
+    "preferredNamespacePrefix": "vann:preferredNamespacePrefix",
+    "preferredNamespaceUri": "vann:preferredNamespaceUri",
+    "isBasedOn": "schema:isBasedOn",
+    "source": "dct:source",
+    "prefLabel": {
+      "@container": "@language"
+    },
+    "altLabel": {
+      "@container": [
+        "@language",
+        "@set"
+      ]
+    },
+    "hiddenLabel": {
+      "@container": [
+        "@language",
+        "@set"
+      ]
+    },
+    "definition": {
+      "@container": "@language"
+    },
+    "note": {
+      "@container": [
+        "@language",
+        "@set"
+      ]
+    },
+    "changeNote": {
+      "@container": [
+        "@language",
+        "@set"
+      ]
+    },
+    "editorialNote": {
+      "@container": [
+        "@language",
+        "@set"
+      ]
+    },
+    "historyNote": {
+      "@container": [
+        "@language",
+        "@set"
+      ]
+    },
+    "scopeNote": {
+      "@container": [
+        "@language",
+        "@set"
+      ]
+    },
+    "notation": {
+      "@container": "@set"
+    },
+    "example": {
+      "@container": "@language"
+    },
+    "narrower": {
+      "@container": "@set"
+    },
+    "related": {
+      "@container": "@set"
+    },
+    "relatedMatch": {
+      "@container": "@set"
+    },
+    "narrowerTransitive": {
+      "@container": "@set"
+    },
+    "broaderTransitive": {
+      "@container": "@set"
+    },
+    "broadMatch": {
+      "@container": "@set"
+    },
+    "narrowMatch": {
+      "@container": "@set"
+    },
+    "closeMatch": {
+      "@container": "@set"
+    },
+    "exactMatch": {
+      "@container": "@set"
+    },
+    "hasTopConcept": {
+      "@container": "@set"
+    },
+    "inScheme": {
+      "@container": "@set"
+    },
+    "topConceptOf": {
+      "@container": "@set"
+    },
+    "deprecated": {
+      "@id": "owl:deprecated",
+      "@type": "xsd:boolean"
+    },
+    "isReplacedBy": {
+      "@id": "dct:isReplacedBy",
+      "@container": "@set"
+    }
+  }
+}

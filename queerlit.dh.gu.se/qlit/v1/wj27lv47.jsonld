@@ -1,0 +1,430 @@
+{
+  "id": "https://queerlit.dh.gu.se/qlit/v1/wj27lv47",
+  "type": "Concept",
+  "prefLabel": {
+    "sv": "Transpersoner"
+  },
+  "altLabel": {
+    "sv": [
+      "TGD-personer"
+    ]
+  },
+  "scopeNote": {
+    "sv": [
+      "Används för skildringar av personer som genom sitt könsuttryck eller könsidentitet skiljer sig från det kön de tilldelats vid födseln."
+    ]
+  },
+  "narrower": [
+    {
+      "id": "https://queerlit.dh.gu.se/qlit/v1/ch36fv43",
+      "prefLabel": {
+        "sv": "Transmän"
+      }
+    },
+    {
+      "id": "https://queerlit.dh.gu.se/qlit/v1/gz45ku14",
+      "prefLabel": {
+        "sv": "Unga transpersoner"
+      }
+    },
+    {
+      "id": "https://queerlit.dh.gu.se/qlit/v1/ik01oq26",
+      "prefLabel": {
+        "sv": "Transvestiter"
+      }
+    },
+    {
+      "id": "https://queerlit.dh.gu.se/qlit/v1/eh13ix50",
+      "prefLabel": {
+        "sv": "Transpar"
+      }
+    },
+    {
+      "id": "https://queerlit.dh.gu.se/qlit/v1/jo36mt43",
+      "prefLabel": {
+        "sv": "Prostituerade transpersoner"
+      }
+    },
+    {
+      "id": "https://queerlit.dh.gu.se/qlit/v1/uw18hz12",
+      "prefLabel": {
+        "sv": "Ickebinära personer"
+      }
+    },
+    {
+      "id": "https://queerlit.dh.gu.se/qlit/v1/ao42ia99",
+      "prefLabel": {
+        "sv": "Äldre transpersoner"
+      }
+    },
+    {
+      "id": "https://queerlit.dh.gu.se/qlit/v1/pm74au97",
+      "prefLabel": {
+        "sv": "Transkvinnor"
+      }
+    },
+    {
+      "id": "https://queerlit.dh.gu.se/qlit/v1/mb15si12",
+      "prefLabel": {
+        "sv": "Genderfluid-personer"
+      }
+    },
+    {
+      "id": "https://queerlit.dh.gu.se/qlit/v1/pz27fq97",
+      "prefLabel": {
+        "sv": "Bigender-personer"
+      }
+    },
+    {
+      "id": "https://queerlit.dh.gu.se/qlit/v1/nv29rf04",
+      "prefLabel": {
+        "sv": "Transmaskulina"
+      }
+    },
+    {
+      "id": "https://queerlit.dh.gu.se/qlit/v1/tc55xe62",
+      "prefLabel": {
+        "sv": "Tredje kön-personer"
+      }
+    },
+    {
+      "id": "https://queerlit.dh.gu.se/qlit/v1/db41rg76",
+      "prefLabel": {
+        "sv": "Transfeminina"
+      }
+    },
+    {
+      "id": "https://queerlit.dh.gu.se/qlit/v1/ur25wp26",
+      "prefLabel": {
+        "sv": "Demigenderpersoner"
+      }
+    },
+    {
+      "id": "https://queerlit.dh.gu.se/qlit/v1/nm50fc73",
+      "prefLabel": {
+        "sv": "Transbarn"
+      }
+    },
+    {
+      "id": "https://queerlit.dh.gu.se/qlit/v1/vk43qf93",
+      "prefLabel": {
+        "sv": "Androgyna personer"
+      }
+    },
+    {
+      "id": "https://queerlit.dh.gu.se/qlit/v1/kh58tg68",
+      "prefLabel": {
+        "sv": "MtX"
+      }
+    },
+    {
+      "id": "https://queerlit.dh.gu.se/qlit/v1/rd56yz51",
+      "prefLabel": {
+        "sv": "FtX"
+      }
+    },
+    {
+      "id": "https://queerlit.dh.gu.se/qlit/v1/uj94qg47",
+      "prefLabel": {
+        "sv": "Nyutkomna transpersoner"
+      }
+    },
+    {
+      "id": "https://queerlit.dh.gu.se/qlit/v1/vw95lh38",
+      "prefLabel": {
+        "sv": "Agenderpersoner"
+      }
+    },
+    {
+      "id": "https://queerlit.dh.gu.se/qlit/v1/jt69hs39",
+      "prefLabel": {
+        "sv": "Transföräldrar"
+      }
+    },
+    {
+      "id": "https://queerlit.dh.gu.se/qlit/v1/ie81fz88",
+      "prefLabel": {
+        "sv": "Transsexuella"
+      }
+    }
+  ],
+  "related": [
+    {
+      "id": "https://queerlit.dh.gu.se/qlit/v1/ua71em06",
+      "prefLabel": {
+        "sv": "Transitionering"
+      }
+    },
+    {
+      "id": "https://queerlit.dh.gu.se/qlit/v1/bk45ul19",
+      "prefLabel": {
+        "sv": "Partners till transpersoner"
+      }
+    },
+    {
+      "id": "https://queerlit.dh.gu.se/qlit/v1/rb83rq15",
+      "prefLabel": {
+        "sv": "Könsbekräftande behandling"
+      }
+    },
+    {
+      "id": "https://queerlit.dh.gu.se/qlit/v1/jp81au66",
+      "prefLabel": {
+        "sv": "Förföljelse av transpersoner"
+      }
+    },
+    {
+      "id": "https://queerlit.dh.gu.se/qlit/v1/op23ar73",
+      "prefLabel": {
+        "sv": "Könsidentitet"
+      }
+    },
+    {
+      "id": "https://queerlit.dh.gu.se/qlit/v1/zf23ch07",
+      "prefLabel": {
+        "sv": "Män"
+      }
+    },
+    {
+      "id": "https://queerlit.dh.gu.se/qlit/v1/kq81ui59",
+      "prefLabel": {
+        "sv": "Hormonbehandling (kön)"
+      }
+    },
+    {
+      "id": "https://queerlit.dh.gu.se/qlit/v1/la83kc00",
+      "prefLabel": {
+        "sv": "Kvinnor"
+      }
+    },
+    {
+      "id": "https://queerlit.dh.gu.se/qlit/v1/wj35lq02",
+      "prefLabel": {
+        "sv": "Cispersoner"
+      }
+    },
+    {
+      "id": "https://queerlit.dh.gu.se/qlit/v1/qn64mm90",
+      "prefLabel": {
+        "sv": "Passera (kön)"
+      }
+    },
+    {
+      "id": "https://queerlit.dh.gu.se/qlit/v1/ig53gy82",
+      "prefLabel": {
+        "sv": "Transsexualism"
+      }
+    },
+    {
+      "id": "https://queerlit.dh.gu.se/qlit/v1/kx09ve81",
+      "prefLabel": {
+        "sv": "Transfobi"
+      }
+    },
+    {
+      "id": "https://queerlit.dh.gu.se/qlit/v1/bw74og01",
+      "prefLabel": {
+        "sv": "Transgemenskaper"
+      }
+    },
+    {
+      "id": "https://queerlit.dh.gu.se/qlit/v1/bi56bw40",
+      "prefLabel": {
+        "sv": "Föräldrar till transpersoner"
+      }
+    },
+    {
+      "id": "https://queerlit.dh.gu.se/qlit/v1/sh97pd06",
+      "prefLabel": {
+        "sv": "Eonism"
+      }
+    },
+    {
+      "id": "https://queerlit.dh.gu.se/qlit/v1/or82kx62",
+      "prefLabel": {
+        "sv": "Könseufori"
+      }
+    },
+    {
+      "id": "https://queerlit.dh.gu.se/qlit/v1/dk34ho21",
+      "prefLabel": {
+        "sv": "Könsdysfori"
+      }
+    },
+    {
+      "id": "https://queerlit.dh.gu.se/qlit/v1/vr41yw40",
+      "prefLabel": {
+        "sv": "Stealth (transpersoner)"
+      }
+    }
+  ],
+  "exactMatch": [
+    {
+      "id": "http://id.loc.gov/authorities/subjects/sh2007003708"
+    },
+    {
+      "id": "https://homosaurus.org/v3/homoit0001378"
+    },
+    {
+      "id": "https://id.kb.se/term/barn/Transpersoner"
+    },
+    {
+      "id": "https://id.kb.se/term/sao/Transpersoner"
+    }
+  ],
+  "inScheme": [
+    {
+      "id": "https://queerlit.dh.gu.se/qlit/v1"
+    }
+  ],
+  "inSchemeAll": [
+    {
+      "id": "https://queerlit.dh.gu.se/qlit/v1"
+    }
+  ],
+  "@context": {
+    "@version": 1.1,
+    "id": "@id",
+    "type": "@type",
+    "@vocab": "http://www.w3.org/2004/02/skos/core#",
+    "xsd": "http://www.w3.org/2001/XMLSchema#",
+    "dct": "http://purl.org/dc/terms/",
+    "dc": "http://purl.org/dc/elements/1.1/",
+    "schema": "https://schema.org/",
+    "vann": "http://purl.org/vocab/vann/",
+    "ldp": "http://www.w3.org/ns/ldp#",
+    "owl": "http://www.w3.org/2002/07/owl#",
+    "title": {
+      "@id": "dct:title",
+      "@container": "@language"
+    },
+    "dc:title": {
+      "@id": "dc:title",
+      "@container": "@language"
+    },
+    "dc:description": {
+      "@id": "dc:description",
+      "@container": "@language"
+    },
+    "description": {
+      "@id": "dct:description",
+      "@container": "@language"
+    },
+    "issued": {
+      "@id": "dct:issued",
+      "@type": "xsd:date"
+    },
+    "created": {
+      "@id": "dct:created",
+      "@type": "xsd:date"
+    },
+    "modified": {
+      "@id": "dct:modified",
+      "@type": "xsd:date"
+    },
+    "creator": "dct:creator",
+    "publisher": "dct:publisher",
+    "preferredNamespacePrefix": "vann:preferredNamespacePrefix",
+    "preferredNamespaceUri": "vann:preferredNamespaceUri",
+    "isBasedOn": "schema:isBasedOn",
+    "source": "dct:source",
+    "prefLabel": {
+      "@container": "@language"
+    },
+    "altLabel": {
+      "@container": [
+        "@language",
+        "@set"
+      ]
+    },
+    "hiddenLabel": {
+      "@container": [
+        "@language",
+        "@set"
+      ]
+    },
+    "definition": {
+      "@container": "@language"
+    },
+    "note": {
+      "@container": [
+        "@language",
+        "@set"
+      ]
+    },
+    "changeNote": {
+      "@container": [
+        "@language",
+        "@set"
+      ]
+    },
+    "editorialNote": {
+      "@container": [
+        "@language",
+        "@set"
+      ]
+    },
+    "historyNote": {
+      "@container": [
+        "@language",
+        "@set"
+      ]
+    },
+    "scopeNote": {
+      "@container": [
+        "@language",
+        "@set"
+      ]
+    },
+    "notation": {
+      "@container": "@set"
+    },
+    "example": {
+      "@container": "@language"
+    },
+    "narrower": {
+      "@container": "@set"
+    },
+    "related": {
+      "@container": "@set"
+    },
+    "relatedMatch": {
+      "@container": "@set"
+    },
+    "narrowerTransitive": {
+      "@container": "@set"
+    },
+    "broaderTransitive": {
+      "@container": "@set"
+    },
+    "broadMatch": {
+      "@container": "@set"
+    },
+    "narrowMatch": {
+      "@container": "@set"
+    },
+    "closeMatch": {
+      "@container": "@set"
+    },
+    "exactMatch": {
+      "@container": "@set"
+    },
+    "hasTopConcept": {
+      "@container": "@set"
+    },
+    "inScheme": {
+      "@container": "@set"
+    },
+    "topConceptOf": {
+      "@container": "@set"
+    },
+    "deprecated": {
+      "@id": "owl:deprecated",
+      "@type": "xsd:boolean"
+    },
+    "isReplacedBy": {
+      "@id": "dct:isReplacedBy",
+      "@container": "@set"
+    }
+  }
+}
